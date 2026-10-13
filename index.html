@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>E-Commerce Sales Dashboard | Akash Kumar</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{
+  --bg:#0a0a14;--card:#12122a;--border:rgba(124,92,252,.18);
+  --v:#7c3aed;--vl:#a78bfa;--c:#22d3ee;--txt:#e2e8f0;--muted:#94a3b8;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:var(--bg);color:var(--txt);font-family:'Segoe UI',Arial,sans-serif;font-size:14px;}
+
+header{
+  background:linear-gradient(135deg,rgba(124,92,252,.15),rgba(34,211,238,.08));
+  border-bottom:1px solid var(--border);
+  padding:1.5rem 2rem;
+  display:flex;justify-content:space-between;align-items:center;
+}
+.logo{font-size:1.3rem;font-weight:800;letter-spacing:-.01em;}
+.logo span{color:var(--vl);}
+.by{font-size:.8rem;color:var(--muted);}
+.by b{color:var(--vl);}
+
+.container{max-width:1300px;margin:0 auto;padding:2rem;}
+
+/* KPI Cards */
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;margin-bottom:2rem;}
+.kpi{
+  background:var(--card);border:1px solid var(--border);
+  border-radius:.75rem;padding:1.5rem;position:relative;overflow:hidden;
+  transition:.25s;
+}
+.kpi:hover{border-color:rgba(124,92,252,.45);transform:translateY(-3px);}
+.kpi::before{
+  content:'';position:absolute;top:-30px;right:-30px;
+  width:100px;height:100px;border-radius:50%;
+  background:radial-gradient(circle,rgba(124,92,252,.15),transparent 70%);
+}
+.kpi-icon{font-size:1.6rem;margin-bottom:.6rem;}
+.kpi-val{font-size:1.7rem;font-weight:800;color:var(--vl);line-height:1;}
+.kpi-lbl{font-size:.78rem;color:var(--muted);margin-top:.3rem;font-weight:500;}
+
+/* Charts grid */
+.charts{display:grid;grid-template-columns:2fr 1fr;gap:1.25rem;margin-bottom:1.25rem;}
+.charts2{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1.25rem;margin-bottom:1.25rem;}
+
+.card{
+  background:var(--card);border:1px solid var(--border);
+  border-radius:.75rem;padding:1.5rem;
+}
+.card-title{
+  font-size:.85rem;font-weight:700;color:var(--muted);
+  letter-spacing:.06em;text-transform:uppercase;margin-bottom:1rem;
+  display:flex;align-items:center;gap:.5rem;
+}
+.card-title span{width:8px;height:8px;border-radius:50%;background:var(--vl);display:inline-block;}
+
+/* Table */
+.tbl{width:100%;border-collapse:collapse;font-size:.82rem;}
+.tbl th{color:var(--muted);font-size:.72rem;letter-spacing:.07em;text-transform:uppercase;padding:.6rem .75rem;text-align:left;border-bottom:1px solid var(--border);}
+.tbl td{padding:.65rem .75rem;border-bottom:1px solid rgba(255,255,255,.04);}
+.tbl tr:hover td{background:rgba(124,92,252,.05);}
+.badge{
+  display:inline-block;padding:.2rem .6rem;border-radius:2rem;
+  font-size:.72rem;font-weight:600;
+  background:rgba(124,92,252,.15);color:var(--vl);border:1px solid rgba(124,92,252,.25);
+}
+
+footer{text-align:center;padding:2rem;color:var(--muted);font-size:.82rem;border-top:1px solid var(--border);}
+footer b{color:var(--vl);}
+
+canvas{max-height:220px;}
+
+@media(max-width:900px){
+  .kpis{grid-template-columns:1fr 1fr;}
+  .charts,.charts2{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="logo">🛒 RetailSense <span>Analytics</span></div>
+    <div style="font-size:.8rem;color:var(--muted);margin-top:.25rem;">E-Commerce Sales Dashboard — FY 2023</div>
+  </div>
+  <div class="by">Built by <b>Akash Kumar</b> &nbsp;|&nbsp; Python · SQL · Excel</div>
+</header>
+
+<div class="container">
+
+  <!-- KPI Cards -->
+  <div class="kpis" id="kpis">
+    <div class="kpi"><div class="kpi-icon">💰</div><div class="kpi-val" id="k-rev">—</div><div class="kpi-lbl">Total Revenue</div></div>
+    <div class="kpi"><div class="kpi-icon">📦</div><div class="kpi-val" id="k-ord">—</div><div class="kpi-lbl">Total Orders</div></div>
+    <div class="kpi"><div class="kpi-icon">🎯</div><div class="kpi-val" id="k-aov">—</div><div class="kpi-lbl">Avg Order Value</div></div>
+    <div class="kpi"><div class="kpi-icon">👤</div><div class="kpi-val" id="k-cust">—</div><div class="kpi-lbl">Unique Customers</div></div>
+  </div>
+
+  <!-- Row 1: Line + Donut -->
+  <div class="charts">
+    <div class="card">
+      <div class="card-title"><span></span>Monthly Revenue Trend (₹)</div>
+      <canvas id="cMonthly"></canvas>
+    </div>
+    <div class="card">
+      <div class="card-title"><span></span>Revenue by Region</div>
+      <canvas id="cRegion"></canvas>
+    </div>
+  </div>
+
+  <!-- Row 2: Bar + Doughnut + Bar -->
+  <div class="charts2">
+    <div class="card">
+      <div class="card-title"><span></span>Category Revenue (₹)</div>
+      <canvas id="cCat"></canvas>
+    </div>
+    <div class="card">
+      <div class="card-title"><span></span>Payment Modes</div>
+      <canvas id="cPay"></canvas>
+    </div>
+    <div class="card">
+      <div class="card-title"><span></span>Quarterly Revenue (₹)</div>
+      <canvas id="cQtr"></canvas>
+    </div>
+  </div>
+
+  <!-- Top 5 Products Table -->
+  <div class="card">
+    <div class="card-title"><span></span>Top 5 Products by Revenue</div>
+    <table class="tbl" id="tbl">
+      <thead><tr><th>#</th><th>Product</th><th>Orders</th><th>Total Revenue</th><th>Category</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer>
+  📊 <b>RetailSense E-Commerce Dashboard</b> &nbsp;|&nbsp; 
+  Dataset: 1,000 orders · 5 categories · 4 regions · FY 2023 &nbsp;|&nbsp;
+  Tools: Python · Pandas · SQL · Excel · Chart.js
+</footer>
+
+<script>
+const V  = '#7c3aed', VL = '#a78bfa', C  = '#22d3ee';
+const COLORS = ['#7c3aed','#a78bfa','#4f46e5','#818cf8','#c4b5fd'];
+const GV = ['#7c3aed','#6d28d9','#5b21b6','#4c1d95'];
+
+const D = {
+  kpi:{"revenue":6096654,"orders":1000,"aov":6096,"customers":432},
+  monthly:{"labels":["January","February","March","April","May","June","July","August","September","October","November","December"],"revenue":[414620,419160,534620,449380,514690,431080,514370,543410,538690,593820,591010,551800],"orders":[64,68,88,74,84,72,84,89,89,98,97,93]},
+  category:{"labels":["Electronics","Home & Kitchen","Clothing","Sports","Books"],"revenue":[2825120,1082870,1030930,688480,469250]},
+  region:{"labels":["South","East","West","North"],"revenue":[1690490,1567860,1543560,1294740]},
+  payment:{"labels":["UPI","Credit Card","Debit Card","Cash on Delivery","Net Banking"],"counts":[227,213,209,194,157]},
+  top5:{"products":["Laptop","Tablet","Smartphone","Jacket","Smart Watch"],"revenue":[1821310,910090,811160,366560,282850],"orders":[38,45,49,39,36]},
+  quarterly:{"labels":["Q1","Q2","Q3","Q4"],"revenue":[1368400,1395150,1596470,1736630]}
+};
+
+// KPIs
+document.getElementById('k-rev').textContent  = '₹' + (D.kpi.revenue/100000).toFixed(1) + 'L';
+document.getElementById('k-ord').textContent  = D.kpi.orders.toLocaleString();
+document.getElementById('k-aov').textContent  = '₹' + D.kpi.aov.toLocaleString();
+document.getElementById('k-cust').textContent = D.kpi.customers;
+
+const opts = (title='') => ({
+  responsive:true, maintainAspectRatio:true,
+  plugins:{legend:{display:false},tooltip:{callbacks:{label:ctx=>' ₹'+ctx.parsed.y?.toLocaleString()||' '+ctx.parsed}}},
+  scales:{x:{grid:{color:'rgba(255,255,255,.05)'},ticks:{color:'#94a3b8',font:{size:10}}},
+          y:{grid:{color:'rgba(255,255,255,.05)'},ticks:{color:'#94a3b8',font:{size:10},callback:v=>'₹'+(v/1000).toFixed(0)+'K'}}}
+});
+
+// Monthly line
+new Chart(document.getElementById('cMonthly'),{
+  type:'line',
+  data:{labels:D.monthly.labels.map(m=>m.slice(0,3)),datasets:[{
+    data:D.monthly.revenue,
+    borderColor:V,backgroundColor:'rgba(124,92,252,.12)',
+    tension:.4,fill:true,pointBackgroundColor:VL,pointRadius:4,borderWidth:2.5
+  }]},
+  options:{...opts(),plugins:{legend:{display:false}}}
+});
+
+// Region doughnut
+new Chart(document.getElementById('cRegion'),{
+  type:'doughnut',
+  data:{labels:D.region.labels,datasets:[{data:D.region.revenue,backgroundColor:GV,borderColor:'#12122a',borderWidth:3}]},
+  options:{responsive:true,maintainAspectRatio:true,cutout:'68%',
+    plugins:{legend:{position:'bottom',labels:{color:'#94a3b8',font:{size:11},padding:12}},
+             tooltip:{callbacks:{label:ctx=>' ₹'+(ctx.raw/100000).toFixed(1)+'L ('+Math.round(ctx.raw/D.kpi.revenue*100)+'%)'}}}
+  }
+});
+
+// Category bar
+new Chart(document.getElementById('cCat'),{
+  type:'bar',
+  data:{labels:D.category.labels,datasets:[{data:D.category.revenue,backgroundColor:COLORS,borderRadius:6,borderSkipped:false}]},
+  options:{...opts(),plugins:{legend:{display:false}}}
+});
+
+// Payment doughnut
+new Chart(document.getElementById('cPay'),{
+  type:'doughnut',
+  data:{labels:D.payment.labels,datasets:[{data:D.payment.counts,backgroundColor:COLORS,borderColor:'#12122a',borderWidth:3}]},
+  options:{responsive:true,maintainAspectRatio:true,cutout:'60%',
+    plugins:{legend:{position:'bottom',labels:{color:'#94a3b8',font:{size:10},padding:8}},
+             tooltip:{callbacks:{label:ctx=>' '+ctx.raw+' orders'}}}
+  }
+});
+
+// Quarterly bar
+new Chart(document.getElementById('cQtr'),{
+  type:'bar',
+  data:{labels:D.quarterly.labels,datasets:[{data:D.quarterly.revenue,backgroundColor:[V,VL,'#4f46e5',C],borderRadius:8,borderSkipped:false}]},
+  options:{...opts(),plugins:{legend:{display:false}}}
+});
+
+// Table
+const cats = {Laptop:'Electronics',Tablet:'Electronics',Smartphone:'Electronics',Jacket:'Clothing','Smart Watch':'Electronics'};
+const tbody = document.querySelector('#tbl tbody');
+D.top5.products.forEach((p,i)=>{
+  tbody.innerHTML += `<tr>
+    <td style="color:var(--vl);font-weight:700">${i+1}</td>
+    <td style="font-weight:600">${p}</td>
+    <td>${D.top5.orders[i]}</td>
+    <td style="color:var(--vl);font-weight:700">₹${(D.top5.revenue[i]/100000).toFixed(1)}L</td>
+    <td><span class="badge">${cats[p]||'—'}</span></td>
+  </tr>`;
+});
+</script>
+</body>
+</html>
