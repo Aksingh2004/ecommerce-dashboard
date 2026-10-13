@@ -1,0 +1,1001 @@
+Order_ID,Date,Month,Quarter,Customer_ID,Region,City,Category,Product,Quantity,Unit_Price,Discount_Pct,Revenue,Payment_Mode,Rating
+ORD10590,2023-01-01,January,Q1,CUST1212,North,Delhi,Books,Data Science Handbook,2,870.0,20,1392.0,Net Banking,3.1
+ORD10352,2023-01-01,January,Q1,CUST1451,North,Lucknow,Books,Self Help,4,570.0,15,1938.0,Net Banking,3.7
+ORD10302,2023-01-01,January,Q1,CUST1348,South,Kochi,Electronics,Laptop,1,54520.0,20,43616.0,Net Banking,3.0
+ORD10704,2023-01-02,January,Q1,CUST1213,South,Hyderabad,Home & Kitchen,Air Fryer,1,5120.0,10,4608.0,Credit Card,4.0
+ORD10674,2023-01-03,January,Q1,CUST1017,West,Mumbai,Electronics,Smart Watch,1,9210.0,20,7368.0,Net Banking,4.1
+ORD10777,2023-01-03,January,Q1,CUST1454,South,Kochi,Electronics,Laptop,1,56790.0,0,56790.0,Cash on Delivery,3.1
+ORD10592,2023-01-04,January,Q1,CUST1491,North,Jaipur,Home & Kitchen,Air Fryer,1,5950.0,20,4760.0,UPI,4.7
+ORD10020,2023-01-04,January,Q1,CUST1263,North,Delhi,Clothing,Men's T-Shirt,3,790.0,0,2370.0,Credit Card,3.6
+ORD10462,2023-01-04,January,Q1,CUST1076,South,Kochi,Clothing,Women's Kurta,3,1190.0,5,3391.5,Credit Card,3.3
+ORD10215,2023-01-05,January,Q1,CUST1145,East,Ranchi,Sports,Cricket Bat,1,2490.0,10,2241.0,Net Banking,5.0
+ORD10512,2023-01-05,January,Q1,CUST1305,West,Surat,Home & Kitchen,Mixer Grinder,1,3490.0,10,3141.0,Credit Card,4.6
+ORD10887,2023-01-05,January,Q1,CUST1387,East,Bhubaneswar,Home & Kitchen,Air Fryer,1,6250.0,20,5000.0,UPI,3.9
+ORD10220,2023-01-06,January,Q1,CUST1081,East,Bhubaneswar,Clothing,Men's T-Shirt,4,750.0,10,2700.0,Net Banking,4.4
+ORD10812,2023-01-06,January,Q1,CUST1222,North,Delhi,Home & Kitchen,Bedsheet Set,1,1100.0,5,1045.0,UPI,3.8
+ORD10310,2023-01-07,January,Q1,CUST1187,East,Bhubaneswar,Clothing,Saree,5,2790.0,15,11857.5,Debit Card,4.4
+ORD10719,2023-01-08,January,Q1,CUST1002,South,Chennai,Home & Kitchen,Pressure Cooker,1,2030.0,20,1624.0,UPI,4.8
+ORD10232,2023-01-09,January,Q1,CUST1306,South,Chennai,Electronics,Smartphone,1,18870.0,15,16039.5,UPI,3.5
+ORD10249,2023-01-09,January,Q1,CUST1369,North,Amritsar,Sports,Badminton Racket,1,1260.0,20,1008.0,Cash on Delivery,4.1
+ORD10244,2023-01-09,January,Q1,CUST1078,East,Ranchi,Sports,Football,1,750.0,10,675.0,Credit Card,3.7
+ORD10071,2023-01-09,January,Q1,CUST1188,North,Jaipur,Clothing,Saree,3,2680.0,20,6432.0,Net Banking,4.1
+ORD10916,2023-01-10,January,Q1,CUST1119,West,Surat,Sports,Yoga Mat,1,870.0,0,870.0,UPI,4.2
+ORD10744,2023-01-10,January,Q1,CUST1479,South,Coimbatore,Books,Python Basics,4,640.0,10,2304.0,Debit Card,4.6
+ORD10595,2023-01-10,January,Q1,CUST1143,South,Coimbatore,Home & Kitchen,Bedsheet Set,1,1010.0,5,959.5,UPI,3.7
+ORD10791,2023-01-10,January,Q1,CUST1235,North,Lucknow,Electronics,Smartphone,1,16970.0,15,14424.5,Net Banking,4.7
+ORD10849,2023-01-11,January,Q1,CUST1119,East,Bhubaneswar,Clothing,Men's T-Shirt,3,770.0,5,2194.5,Net Banking,4.9
+ORD10062,2023-01-11,January,Q1,CUST1238,South,Chennai,Clothing,Saree,5,2670.0,5,12682.5,Cash on Delivery,4.5
+ORD10397,2023-01-11,January,Q1,CUST1242,North,Delhi,Books,Self Help,5,500.0,10,2250.0,Credit Card,3.4
+ORD10687,2023-01-11,January,Q1,CUST1427,East,Patna,Electronics,Smartphone,1,20120.0,5,19114.0,Debit Card,4.3
+ORD10505,2023-01-12,January,Q1,CUST1052,South,Chennai,Home & Kitchen,Mixer Grinder,1,3050.0,15,2592.5,UPI,3.1
+ORD10834,2023-01-12,January,Q1,CUST1195,East,Guwahati,Clothing,Saree,5,2260.0,10,10170.0,Cash on Delivery,3.2
+ORD10696,2023-01-13,January,Q1,CUST1311,West,Nagpur,Clothing,Saree,3,2470.0,0,7410.0,Credit Card,4.2
+ORD10058,2023-01-15,January,Q1,CUST1273,West,Ahmedabad,Books,Python Basics,2,660.0,20,1056.0,UPI,4.8
+ORD10042,2023-01-15,January,Q1,CUST1055,North,Jaipur,Clothing,Jacket,3,3760.0,0,11280.0,Debit Card,3.9
+ORD10161,2023-01-15,January,Q1,CUST1469,East,Kolkata,Home & Kitchen,Pressure Cooker,1,1680.0,10,1512.0,Net Banking,4.4
+ORD10767,2023-01-15,January,Q1,CUST1298,East,Bhubaneswar,Clothing,Jacket,2,3340.0,10,6012.0,Net Banking,3.2
+ORD10508,2023-01-15,January,Q1,CUST1478,North,Jaipur,Home & Kitchen,Air Fryer,1,5590.0,20,4472.0,Cash on Delivery,4.1
+ORD10910,2023-01-15,January,Q1,CUST1370,North,Jaipur,Clothing,Men's T-Shirt,1,670.0,5,636.5,Credit Card,3.1
+ORD10444,2023-01-16,January,Q1,CUST1407,West,Pune,Sports,Yoga Mat,1,790.0,15,671.5,Debit Card,3.6
+ORD10317,2023-01-16,January,Q1,CUST1321,East,Guwahati,Home & Kitchen,Water Bottle,1,410.0,20,328.0,UPI,4.0
+ORD10532,2023-01-17,January,Q1,CUST1336,South,Bengaluru,Books,Python Basics,5,550.0,15,2337.5,Net Banking,4.1
+ORD10908,2023-01-18,January,Q1,CUST1199,South,Kochi,Electronics,Tablet,1,23330.0,0,23330.0,Cash on Delivery,3.9
+ORD10625,2023-01-18,January,Q1,CUST1072,North,Amritsar,Books,Business Strategy,4,830.0,0,3320.0,Debit Card,5.0
+ORD10931,2023-01-18,January,Q1,CUST1126,East,Kolkata,Clothing,Jeans,2,2000.0,10,3600.0,Debit Card,4.2
+ORD10364,2023-01-18,January,Q1,CUST1413,South,Bengaluru,Books,Python Basics,2,680.0,5,1292.0,Credit Card,3.3
+ORD10813,2023-01-19,January,Q1,CUST1205,South,Coimbatore,Electronics,Tablet,1,25150.0,15,21377.5,Debit Card,4.7
+ORD10850,2023-01-19,January,Q1,CUST1056,East,Guwahati,Sports,Yoga Mat,1,770.0,15,654.5,Cash on Delivery,4.1
+ORD10214,2023-01-20,January,Q1,CUST1095,South,Kochi,Clothing,Men's T-Shirt,4,800.0,15,2720.0,Cash on Delivery,4.8
+ORD10436,2023-01-21,January,Q1,CUST1012,East,Guwahati,Electronics,Smart Watch,1,8200.0,10,7380.0,Debit Card,4.6
+ORD10458,2023-01-21,January,Q1,CUST1342,South,Kochi,Clothing,Men's T-Shirt,2,680.0,0,1360.0,Credit Card,4.0
+ORD10254,2023-01-22,January,Q1,CUST1350,South,Chennai,Sports,Badminton Racket,1,1350.0,0,1350.0,Cash on Delivery,4.8
+ORD10749,2023-01-22,January,Q1,CUST1443,West,Mumbai,Electronics,Smartphone,1,17610.0,10,15849.0,UPI,4.8
+ORD10940,2023-01-22,January,Q1,CUST1492,North,Chandigarh,Sports,Cricket Bat,1,2190.0,20,1752.0,Cash on Delivery,4.9
+ORD10654,2023-01-22,January,Q1,CUST1379,West,Mumbai,Clothing,Jacket,5,3350.0,5,15912.5,Debit Card,3.5
+ORD10772,2023-01-23,January,Q1,CUST1462,South,Kochi,Home & Kitchen,Bedsheet Set,1,1240.0,10,1116.0,Cash on Delivery,4.2
+ORD10233,2023-01-23,January,Q1,CUST1257,West,Surat,Clothing,Jacket,1,3150.0,5,2992.5,Cash on Delivery,3.5
+ORD10601,2023-01-23,January,Q1,CUST1295,North,Jaipur,Books,Data Science Handbook,3,740.0,0,2220.0,Cash on Delivery,4.3
+ORD10122,2023-01-23,January,Q1,CUST1218,East,Guwahati,Electronics,Smartphone,1,20690.0,15,17586.5,UPI,4.0
+ORD10005,2023-01-23,January,Q1,CUST1424,West,Nagpur,Electronics,Smart Watch,1,7820.0,10,7038.0,Debit Card,4.8
+ORD10471,2023-01-23,January,Q1,CUST1217,West,Pune,Books,Self Help,5,490.0,0,2450.0,Credit Card,3.5
+ORD10075,2023-01-24,January,Q1,CUST1052,North,Amritsar,Home & Kitchen,Pressure Cooker,1,1910.0,15,1623.5,UPI,4.1
+ORD10404,2023-01-24,January,Q1,CUST1137,North,Chandigarh,Clothing,Jeans,4,1880.0,20,6016.0,UPI,3.7
+ORD10114,2023-01-24,January,Q1,CUST1198,North,Jaipur,Books,Data Science Handbook,5,740.0,5,3515.0,Net Banking,3.7
+ORD10789,2023-01-24,January,Q1,CUST1387,North,Lucknow,Home & Kitchen,Bedsheet Set,1,1150.0,15,977.5,Net Banking,4.2
+ORD10322,2023-01-24,January,Q1,CUST1044,West,Mumbai,Books,Business Strategy,3,980.0,10,2646.0,Debit Card,3.9
+ORD10012,2023-01-25,January,Q1,CUST1305,North,Chandigarh,Clothing,Saree,4,2620.0,15,8908.0,Net Banking,4.1
+ORD10499,2023-01-25,January,Q1,CUST1429,West,Mumbai,Clothing,Men's T-Shirt,3,670.0,15,1708.5,UPI,3.9
+ORD10236,2023-01-25,January,Q1,CUST1076,East,Guwahati,Sports,Dumbbells Set,1,3760.0,15,3196.0,Cash on Delivery,3.8
+ORD10299,2023-01-25,January,Q1,CUST1233,North,Delhi,Books,Data Science Handbook,2,740.0,15,1258.0,UPI,5.0
+ORD10981,2023-01-25,January,Q1,CUST1304,South,Hyderabad,Books,Python Basics,5,590.0,20,2360.0,Net Banking,4.0
+ORD10403,2023-01-26,January,Q1,CUST1218,North,Chandigarh,Electronics,Earbuds,1,2480.0,10,2232.0,UPI,3.2
+ORD10336,2023-01-26,January,Q1,CUST1088,South,Coimbatore,Books,Self Help,4,510.0,15,1734.0,Cash on Delivery,3.4
+ORD10370,2023-01-26,January,Q1,CUST1159,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3150.0,10,2835.0,Cash on Delivery,4.7
+ORD10619,2023-01-28,January,Q1,CUST1120,North,Amritsar,Home & Kitchen,Mixer Grinder,1,3570.0,0,3570.0,Net Banking,4.4
+ORD10983,2023-01-28,January,Q1,CUST1224,East,Patna,Sports,Badminton Racket,1,1510.0,5,1434.5,Cash on Delivery,4.6
+ORD10415,2023-01-28,January,Q1,CUST1242,South,Kochi,Home & Kitchen,Water Bottle,1,490.0,20,392.0,Cash on Delivery,4.4
+ORD10753,2023-01-29,January,Q1,CUST1243,West,Nagpur,Home & Kitchen,Mixer Grinder,1,3130.0,15,2660.5,Credit Card,4.9
+ORD10315,2023-01-29,January,Q1,CUST1083,East,Patna,Electronics,Smartphone,1,19390.0,0,19390.0,Net Banking,4.9
+ORD10535,2023-01-30,January,Q1,CUST1483,East,Ranchi,Electronics,Smartphone,1,19960.0,0,19960.0,Credit Card,4.9
+ORD10707,2023-01-30,January,Q1,CUST1184,South,Hyderabad,Books,Python Basics,1,590.0,10,531.0,Net Banking,4.3
+ORD10769,2023-01-31,January,Q1,CUST1363,North,Jaipur,Clothing,Saree,5,2820.0,20,11280.0,UPI,3.0
+ORD10836,2023-01-31,January,Q1,CUST1163,East,Patna,Electronics,Smartphone,1,17540.0,0,17540.0,Credit Card,3.8
+ORD10798,2023-02-01,February,Q1,CUST1457,North,Lucknow,Sports,Dumbbells Set,1,3630.0,10,3267.0,Net Banking,4.8
+ORD10893,2023-02-02,February,Q1,CUST1047,West,Pune,Books,Data Science Handbook,4,780.0,10,2808.0,Credit Card,3.2
+ORD10683,2023-02-02,February,Q1,CUST1363,East,Bhubaneswar,Books,Self Help,1,510.0,15,433.5,Debit Card,4.4
+ORD10121,2023-02-02,February,Q1,CUST1257,West,Surat,Home & Kitchen,Water Bottle,1,470.0,15,399.5,Credit Card,4.9
+ORD10478,2023-02-02,February,Q1,CUST1476,East,Patna,Home & Kitchen,Mixer Grinder,1,3370.0,15,2864.5,Net Banking,4.2
+ORD10077,2023-02-03,February,Q1,CUST1077,West,Surat,Electronics,Tablet,1,23260.0,0,23260.0,Credit Card,4.6
+ORD10852,2023-02-03,February,Q1,CUST1098,South,Hyderabad,Sports,Yoga Mat,1,950.0,10,855.0,UPI,5.0
+ORD10639,2023-02-04,February,Q1,CUST1179,North,Lucknow,Electronics,Tablet,1,20370.0,15,17314.5,Credit Card,4.5
+ORD10655,2023-02-06,February,Q1,CUST1124,North,Chandigarh,Books,Data Science Handbook,5,810.0,0,4050.0,Credit Card,3.0
+ORD10083,2023-02-06,February,Q1,CUST1471,North,Chandigarh,Home & Kitchen,Water Bottle,1,490.0,20,392.0,Cash on Delivery,3.9
+ORD10031,2023-02-07,February,Q1,CUST1275,North,Lucknow,Sports,Football,1,800.0,0,800.0,Credit Card,4.0
+ORD10335,2023-02-08,February,Q1,CUST1062,North,Delhi,Clothing,Saree,1,2750.0,10,2475.0,UPI,4.9
+ORD10024,2023-02-08,February,Q1,CUST1428,West,Nagpur,Electronics,Smartphone,1,19130.0,20,15304.0,UPI,4.9
+ORD10247,2023-02-08,February,Q1,CUST1362,North,Delhi,Books,Python Basics,2,670.0,0,1340.0,Credit Card,3.0
+ORD10730,2023-02-09,February,Q1,CUST1133,West,Surat,Clothing,Jeans,4,2020.0,20,6464.0,Debit Card,3.7
+ORD10178,2023-02-09,February,Q1,CUST1127,South,Coimbatore,Home & Kitchen,Air Fryer,1,5380.0,10,4842.0,UPI,3.1
+ORD10461,2023-02-09,February,Q1,CUST1405,East,Guwahati,Clothing,Jacket,3,3300.0,15,8415.0,Net Banking,4.8
+ORD10139,2023-02-09,February,Q1,CUST1058,East,Ranchi,Books,Novel,4,350.0,10,1260.0,Net Banking,3.0
+ORD10787,2023-02-09,February,Q1,CUST1237,North,Amritsar,Electronics,Tablet,1,22140.0,0,22140.0,Debit Card,4.6
+ORD10054,2023-02-09,February,Q1,CUST1041,East,Patna,Home & Kitchen,Bedsheet Set,1,1080.0,20,864.0,Credit Card,3.3
+ORD10534,2023-02-10,February,Q1,CUST1420,West,Mumbai,Home & Kitchen,Water Bottle,1,490.0,15,416.5,Cash on Delivery,4.6
+ORD10141,2023-02-10,February,Q1,CUST1039,West,Ahmedabad,Home & Kitchen,Pressure Cooker,1,1770.0,5,1681.5,Debit Card,4.3
+ORD10453,2023-02-11,February,Q1,CUST1372,East,Patna,Sports,Yoga Mat,1,820.0,0,820.0,UPI,4.8
+ORD10933,2023-02-11,February,Q1,CUST1495,South,Kochi,Clothing,Saree,3,2410.0,20,5784.0,Debit Card,4.3
+ORD10779,2023-02-11,February,Q1,CUST1496,West,Surat,Books,Business Strategy,1,940.0,10,846.0,UPI,4.3
+ORD10313,2023-02-12,February,Q1,CUST1274,East,Kolkata,Sports,Yoga Mat,1,970.0,5,921.5,Cash on Delivery,3.8
+ORD10260,2023-02-12,February,Q1,CUST1054,East,Patna,Books,Python Basics,3,650.0,10,1755.0,UPI,3.0
+ORD10173,2023-02-12,February,Q1,CUST1150,West,Mumbai,Books,Novel,2,400.0,20,640.0,Cash on Delivery,3.2
+ORD10166,2023-02-13,February,Q1,CUST1283,East,Kolkata,Sports,Football,1,720.0,20,576.0,UPI,3.8
+ORD10725,2023-02-13,February,Q1,CUST1033,North,Chandigarh,Books,Self Help,1,540.0,5,513.0,Cash on Delivery,5.0
+ORD10127,2023-02-13,February,Q1,CUST1030,North,Lucknow,Electronics,Earbuds,1,2760.0,20,2208.0,Debit Card,4.9
+ORD10882,2023-02-13,February,Q1,CUST1298,South,Bengaluru,Home & Kitchen,Air Fryer,1,5660.0,5,5377.0,UPI,3.9
+ORD10859,2023-02-13,February,Q1,CUST1031,North,Delhi,Books,Business Strategy,1,1010.0,5,959.5,Net Banking,3.1
+ORD10810,2023-02-13,February,Q1,CUST1385,East,Bhubaneswar,Books,Business Strategy,2,950.0,5,1805.0,Debit Card,3.8
+ORD10017,2023-02-13,February,Q1,CUST1484,West,Mumbai,Sports,Yoga Mat,1,790.0,15,671.5,Debit Card,3.3
+ORD10291,2023-02-14,February,Q1,CUST1440,West,Mumbai,Clothing,Women's Kurta,5,1430.0,10,6435.0,Debit Card,4.3
+ORD10068,2023-02-14,February,Q1,CUST1014,East,Guwahati,Clothing,Saree,4,2610.0,10,9396.0,Net Banking,4.7
+ORD10700,2023-02-14,February,Q1,CUST1071,South,Kochi,Books,Self Help,4,490.0,15,1666.0,Debit Card,4.2
+ORD10802,2023-02-14,February,Q1,CUST1406,West,Pune,Clothing,Women's Kurta,4,1220.0,0,4880.0,Net Banking,4.9
+ORD10372,2023-02-15,February,Q1,CUST1420,South,Kochi,Clothing,Saree,5,2710.0,10,12195.0,UPI,4.0
+ORD10776,2023-02-17,February,Q1,CUST1456,South,Hyderabad,Clothing,Women's Kurta,3,1410.0,20,3384.0,Debit Card,3.4
+ORD10355,2023-02-17,February,Q1,CUST1482,East,Ranchi,Sports,Badminton Racket,1,1510.0,15,1283.5,Credit Card,4.2
+ORD10434,2023-02-17,February,Q1,CUST1486,East,Patna,Clothing,Jeans,3,1870.0,5,5329.5,Debit Card,4.1
+ORD10126,2023-02-18,February,Q1,CUST1351,East,Guwahati,Home & Kitchen,Bedsheet Set,1,1090.0,5,1035.5,Net Banking,3.1
+ORD10022,2023-02-19,February,Q1,CUST1031,West,Ahmedabad,Books,Self Help,1,510.0,0,510.0,Net Banking,4.5
+ORD10536,2023-02-19,February,Q1,CUST1336,North,Chandigarh,Sports,Badminton Racket,1,1330.0,20,1064.0,Credit Card,4.1
+ORD10438,2023-02-19,February,Q1,CUST1343,South,Coimbatore,Sports,Cricket Bat,1,2320.0,5,2204.0,Credit Card,4.7
+ORD10835,2023-02-20,February,Q1,CUST1157,South,Hyderabad,Clothing,Women's Kurta,1,1250.0,5,1187.5,Net Banking,4.4
+ORD10668,2023-02-20,February,Q1,CUST1299,South,Kochi,Clothing,Saree,1,2810.0,15,2388.5,Net Banking,3.1
+ORD10101,2023-02-20,February,Q1,CUST1407,North,Lucknow,Clothing,Jeans,1,2140.0,10,1926.0,UPI,3.6
+ORD10973,2023-02-20,February,Q1,CUST1490,North,Chandigarh,Electronics,Laptop,1,48640.0,5,46208.0,Credit Card,4.2
+ORD10080,2023-02-20,February,Q1,CUST1282,South,Chennai,Home & Kitchen,Mixer Grinder,1,3010.0,5,2859.5,UPI,3.3
+ORD10600,2023-02-20,February,Q1,CUST1059,South,Chennai,Electronics,Smart Watch,1,8470.0,20,6776.0,UPI,3.6
+ORD10739,2023-02-20,February,Q1,CUST1314,West,Mumbai,Clothing,Jeans,3,1940.0,5,5529.0,Cash on Delivery,3.7
+ORD10979,2023-02-20,February,Q1,CUST1269,West,Pune,Books,Data Science Handbook,1,880.0,5,836.0,Cash on Delivery,4.2
+ORD10368,2023-02-21,February,Q1,CUST1292,East,Ranchi,Home & Kitchen,Air Fryer,1,5310.0,15,4513.5,Debit Card,3.9
+ORD10098,2023-02-21,February,Q1,CUST1209,West,Mumbai,Sports,Badminton Racket,1,1270.0,5,1206.5,Credit Card,3.1
+ORD10807,2023-02-22,February,Q1,CUST1466,North,Amritsar,Electronics,Laptop,1,54990.0,5,52240.5,Cash on Delivery,3.3
+ORD10380,2023-02-22,February,Q1,CUST1144,North,Amritsar,Home & Kitchen,Water Bottle,1,480.0,20,384.0,Cash on Delivery,4.4
+ORD10399,2023-02-23,February,Q1,CUST1102,North,Jaipur,Electronics,Smartphone,1,18440.0,20,14752.0,Cash on Delivery,4.7
+ORD10954,2023-02-24,February,Q1,CUST1428,West,Mumbai,Sports,Badminton Racket,1,1370.0,10,1233.0,Credit Card,4.0
+ORD10417,2023-02-24,February,Q1,CUST1130,North,Chandigarh,Books,Python Basics,4,660.0,0,2640.0,Debit Card,3.4
+ORD10484,2023-02-24,February,Q1,CUST1489,North,Amritsar,Home & Kitchen,Bedsheet Set,1,1250.0,20,1000.0,Cash on Delivery,4.8
+ORD10728,2023-02-25,February,Q1,CUST1050,North,Jaipur,Books,Self Help,2,480.0,0,960.0,UPI,4.7
+ORD10196,2023-02-25,February,Q1,CUST1023,West,Pune,Home & Kitchen,Bedsheet Set,1,1200.0,10,1080.0,Net Banking,3.1
+ORD10023,2023-02-25,February,Q1,CUST1142,South,Chennai,Clothing,Jacket,4,3340.0,5,12692.0,Net Banking,3.5
+ORD10874,2023-02-26,February,Q1,CUST1338,East,Patna,Home & Kitchen,Air Fryer,1,5280.0,10,4752.0,Credit Card,4.9
+ORD10680,2023-02-26,February,Q1,CUST1331,West,Ahmedabad,Books,Novel,3,320.0,5,912.0,Debit Card,4.4
+ORD10937,2023-02-26,February,Q1,CUST1132,West,Nagpur,Clothing,Women's Kurta,2,1230.0,5,2337.0,Net Banking,3.9
+ORD10990,2023-02-27,February,Q1,CUST1150,East,Patna,Sports,Cricket Bat,1,2140.0,15,1819.0,Cash on Delivery,3.4
+ORD10715,2023-02-27,February,Q1,CUST1406,North,Delhi,Books,Self Help,1,450.0,0,450.0,Debit Card,4.2
+ORD10283,2023-02-28,February,Q1,CUST1302,East,Bhubaneswar,Books,Novel,3,330.0,20,792.0,UPI,4.3
+ORD10416,2023-02-28,February,Q1,CUST1280,North,Chandigarh,Electronics,Earbuds,1,2470.0,10,2223.0,Debit Card,3.7
+ORD10799,2023-03-01,March,Q1,CUST1082,West,Nagpur,Home & Kitchen,Air Fryer,1,5910.0,0,5910.0,Cash on Delivery,4.5
+ORD10795,2023-03-01,March,Q1,CUST1124,South,Chennai,Books,Self Help,4,510.0,20,1632.0,Credit Card,3.6
+ORD10473,2023-03-02,March,Q1,CUST1218,North,Lucknow,Clothing,Jeans,1,1900.0,5,1805.0,Debit Card,3.5
+ORD10413,2023-03-02,March,Q1,CUST1281,West,Mumbai,Electronics,Smart Watch,1,8530.0,20,6824.0,UPI,4.7
+ORD10241,2023-03-02,March,Q1,CUST1282,West,Pune,Sports,Yoga Mat,1,850.0,5,807.5,Cash on Delivery,4.6
+ORD10969,2023-03-02,March,Q1,CUST1020,South,Coimbatore,Clothing,Men's T-Shirt,3,730.0,0,2190.0,Credit Card,4.2
+ORD10824,2023-03-02,March,Q1,CUST1471,South,Kochi,Books,Data Science Handbook,5,870.0,10,3915.0,UPI,4.2
+ORD10714,2023-03-02,March,Q1,CUST1040,South,Chennai,Clothing,Women's Kurta,2,1270.0,5,2413.0,Net Banking,4.4
+ORD10331,2023-03-03,March,Q1,CUST1075,North,Chandigarh,Home & Kitchen,Water Bottle,1,410.0,10,369.0,UPI,4.4
+ORD10418,2023-03-03,March,Q1,CUST1023,West,Pune,Books,Python Basics,1,650.0,15,552.5,Debit Card,3.2
+ORD10907,2023-03-05,March,Q1,CUST1225,West,Pune,Electronics,Smartphone,1,19250.0,5,18287.5,Cash on Delivery,3.4
+ORD10917,2023-03-05,March,Q1,CUST1191,East,Patna,Books,Python Basics,1,630.0,5,598.5,Net Banking,3.6
+ORD10967,2023-03-06,March,Q1,CUST1201,North,Jaipur,Electronics,Tablet,1,20820.0,0,20820.0,Debit Card,4.6
+ORD10999,2023-03-06,March,Q1,CUST1026,South,Hyderabad,Sports,Cricket Bat,1,2400.0,5,2280.0,Cash on Delivery,3.9
+ORD10840,2023-03-06,March,Q1,CUST1400,East,Ranchi,Books,Self Help,5,460.0,5,2185.0,Credit Card,3.7
+ORD10922,2023-03-06,March,Q1,CUST1120,North,Chandigarh,Sports,Football,1,770.0,5,731.5,Debit Card,3.2
+ORD10118,2023-03-06,March,Q1,CUST1168,South,Bengaluru,Sports,Yoga Mat,1,890.0,5,845.5,Credit Card,4.6
+ORD10816,2023-03-06,March,Q1,CUST1174,East,Patna,Electronics,Tablet,1,22830.0,20,18264.0,Credit Card,3.0
+ORD10982,2023-03-07,March,Q1,CUST1193,East,Kolkata,Sports,Yoga Mat,1,900.0,5,855.0,Debit Card,4.5
+ORD10385,2023-03-07,March,Q1,CUST1114,East,Ranchi,Clothing,Jeans,2,2020.0,10,3636.0,Cash on Delivery,3.8
+ORD10378,2023-03-09,March,Q1,CUST1364,South,Coimbatore,Electronics,Laptop,1,50080.0,10,45072.0,Cash on Delivery,3.8
+ORD10032,2023-03-09,March,Q1,CUST1360,East,Kolkata,Clothing,Jeans,4,1840.0,20,5888.0,Cash on Delivery,4.2
+ORD10689,2023-03-09,March,Q1,CUST1394,East,Patna,Home & Kitchen,Pressure Cooker,1,1840.0,10,1656.0,UPI,3.3
+ORD10960,2023-03-09,March,Q1,CUST1295,East,Ranchi,Electronics,Earbuds,1,2540.0,5,2413.0,Credit Card,3.9
+ORD10422,2023-03-10,March,Q1,CUST1440,South,Kochi,Sports,Football,1,680.0,20,544.0,Cash on Delivery,4.4
+ORD10846,2023-03-10,March,Q1,CUST1284,North,Amritsar,Books,Data Science Handbook,2,900.0,15,1530.0,Net Banking,4.5
+ORD10509,2023-03-11,March,Q1,CUST1222,South,Coimbatore,Sports,Badminton Racket,1,1480.0,20,1184.0,Debit Card,4.3
+ORD10094,2023-03-11,March,Q1,CUST1420,North,Jaipur,Books,Business Strategy,5,1020.0,10,4590.0,UPI,3.6
+ORD10793,2023-03-11,March,Q1,CUST1439,North,Chandigarh,Electronics,Smartphone,1,19330.0,5,18363.5,UPI,3.4
+ORD10541,2023-03-11,March,Q1,CUST1011,East,Kolkata,Home & Kitchen,Pressure Cooker,1,1720.0,10,1548.0,Cash on Delivery,4.8
+ORD10158,2023-03-12,March,Q1,CUST1435,East,Kolkata,Books,Business Strategy,1,930.0,20,744.0,UPI,3.6
+ORD10137,2023-03-12,March,Q1,CUST1089,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,1,2890.0,15,2456.5,Credit Card,3.8
+ORD10285,2023-03-12,March,Q1,CUST1085,West,Surat,Clothing,Saree,2,2650.0,20,4240.0,Net Banking,3.6
+ORD10162,2023-03-13,March,Q1,CUST1131,West,Surat,Sports,Cricket Bat,1,2480.0,0,2480.0,Credit Card,4.7
+ORD10257,2023-03-13,March,Q1,CUST1429,North,Amritsar,Home & Kitchen,Mixer Grinder,1,2960.0,5,2812.0,UPI,3.7
+ORD10701,2023-03-15,March,Q1,CUST1387,South,Hyderabad,Books,Novel,1,400.0,20,320.0,Net Banking,3.2
+ORD10622,2023-03-15,March,Q1,CUST1457,West,Surat,Clothing,Men's T-Shirt,4,650.0,15,2210.0,Debit Card,4.9
+ORD10165,2023-03-15,March,Q1,CUST1213,East,Guwahati,Electronics,Tablet,1,21740.0,20,17392.0,Credit Card,4.3
+ORD10754,2023-03-16,March,Q1,CUST1017,East,Guwahati,Home & Kitchen,Bedsheet Set,1,1000.0,20,800.0,UPI,4.4
+ORD10566,2023-03-16,March,Q1,CUST1398,North,Jaipur,Books,Self Help,3,490.0,5,1396.5,Credit Card,3.2
+ORD10962,2023-03-17,March,Q1,CUST1483,West,Surat,Clothing,Men's T-Shirt,4,650.0,5,2470.0,UPI,3.2
+ORD10402,2023-03-18,March,Q1,CUST1233,North,Amritsar,Electronics,Smartphone,1,20270.0,5,19256.5,Cash on Delivery,3.5
+ORD10774,2023-03-18,March,Q1,CUST1223,North,Chandigarh,Clothing,Men's T-Shirt,2,710.0,15,1207.0,UPI,5.0
+ORD10469,2023-03-18,March,Q1,CUST1385,North,Chandigarh,Books,Novel,5,370.0,20,1480.0,UPI,3.2
+ORD10200,2023-03-18,March,Q1,CUST1378,South,Hyderabad,Sports,Dumbbells Set,1,3290.0,20,2632.0,Cash on Delivery,4.2
+ORD10388,2023-03-19,March,Q1,CUST1073,South,Chennai,Home & Kitchen,Air Fryer,1,6310.0,15,5363.5,Cash on Delivery,4.7
+ORD10918,2023-03-19,March,Q1,CUST1484,West,Pune,Electronics,Laptop,1,58800.0,20,47040.0,Net Banking,4.5
+ORD10994,2023-03-20,March,Q1,CUST1240,West,Mumbai,Books,Data Science Handbook,3,750.0,5,2137.5,Net Banking,3.7
+ORD10926,2023-03-20,March,Q1,CUST1287,South,Hyderabad,Books,Self Help,3,490.0,15,1249.5,Debit Card,4.0
+ORD10892,2023-03-20,March,Q1,CUST1195,East,Ranchi,Sports,Football,1,730.0,15,620.5,Credit Card,4.9
+ORD10358,2023-03-20,March,Q1,CUST1245,North,Jaipur,Electronics,Smart Watch,1,7840.0,20,6272.0,Credit Card,3.2
+ORD10143,2023-03-20,March,Q1,CUST1348,North,Chandigarh,Books,Self Help,5,540.0,15,2295.0,Debit Card,4.3
+ORD10004,2023-03-21,March,Q1,CUST1433,South,Hyderabad,Electronics,Smartphone,1,17910.0,10,16119.0,Cash on Delivery,4.2
+ORD10134,2023-03-21,March,Q1,CUST1248,South,Coimbatore,Electronics,Smartphone,1,17420.0,15,14807.0,Debit Card,3.9
+ORD10511,2023-03-21,March,Q1,CUST1176,East,Kolkata,Electronics,Tablet,1,24280.0,5,23066.0,Cash on Delivery,3.9
+ORD10694,2023-03-21,March,Q1,CUST1242,North,Amritsar,Sports,Dumbbells Set,1,3720.0,10,3348.0,Cash on Delivery,4.9
+ORD10603,2023-03-22,March,Q1,CUST1105,East,Kolkata,Electronics,Tablet,1,22880.0,0,22880.0,Debit Card,3.7
+ORD10411,2023-03-22,March,Q1,CUST1169,West,Surat,Clothing,Men's T-Shirt,3,760.0,5,2166.0,Cash on Delivery,3.1
+ORD10373,2023-03-23,March,Q1,CUST1450,North,Jaipur,Sports,Badminton Racket,1,1310.0,20,1048.0,Debit Card,3.1
+ORD10612,2023-03-23,March,Q1,CUST1220,West,Surat,Electronics,Earbuds,1,2380.0,20,1904.0,Net Banking,4.1
+ORD10665,2023-03-23,March,Q1,CUST1171,North,Delhi,Home & Kitchen,Bedsheet Set,1,1050.0,10,945.0,Debit Card,4.6
+ORD10804,2023-03-23,March,Q1,CUST1316,South,Coimbatore,Electronics,Smartphone,1,17720.0,0,17720.0,Credit Card,3.2
+ORD10431,2023-03-24,March,Q1,CUST1020,East,Kolkata,Home & Kitchen,Air Fryer,1,5930.0,5,5633.5,Credit Card,4.9
+ORD10186,2023-03-24,March,Q1,CUST1128,East,Patna,Home & Kitchen,Water Bottle,1,510.0,0,510.0,Credit Card,4.3
+ORD10159,2023-03-24,March,Q1,CUST1484,East,Guwahati,Sports,Yoga Mat,1,940.0,0,940.0,Credit Card,4.6
+ORD10975,2023-03-25,March,Q1,CUST1274,West,Surat,Electronics,Earbuds,1,2670.0,5,2536.5,Credit Card,3.1
+ORD10711,2023-03-25,March,Q1,CUST1314,North,Chandigarh,Clothing,Jacket,2,3150.0,20,5040.0,Debit Card,4.7
+ORD10693,2023-03-25,March,Q1,CUST1485,East,Kolkata,Electronics,Smart Watch,1,9630.0,5,9148.5,Net Banking,4.9
+ORD10292,2023-03-26,March,Q1,CUST1305,South,Chennai,Clothing,Men's T-Shirt,5,730.0,10,3285.0,Debit Card,3.3
+ORD10842,2023-03-27,March,Q1,CUST1431,North,Delhi,Books,Business Strategy,4,940.0,10,3384.0,Credit Card,4.2
+ORD10063,2023-03-27,March,Q1,CUST1294,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,3340.0,10,3006.0,Net Banking,3.8
+ORD10523,2023-03-27,March,Q1,CUST1496,East,Ranchi,Electronics,Smart Watch,1,9330.0,0,9330.0,UPI,4.2
+ORD10048,2023-03-28,March,Q1,CUST1344,North,Jaipur,Sports,Football,1,690.0,5,655.5,Cash on Delivery,3.4
+ORD10737,2023-03-28,March,Q1,CUST1290,North,Amritsar,Home & Kitchen,Mixer Grinder,1,3250.0,15,2762.5,Debit Card,4.8
+ORD10659,2023-03-28,March,Q1,CUST1068,East,Ranchi,Clothing,Saree,5,2400.0,0,12000.0,UPI,4.6
+ORD10390,2023-03-28,March,Q1,CUST1206,South,Kochi,Electronics,Laptop,1,54790.0,15,46571.5,Net Banking,4.9
+ORD10451,2023-03-28,March,Q1,CUST1430,North,Jaipur,Clothing,Women's Kurta,4,1400.0,10,5040.0,Cash on Delivery,3.3
+ORD10841,2023-03-28,March,Q1,CUST1492,South,Coimbatore,Books,Novel,1,350.0,15,297.5,Debit Card,3.6
+ORD10610,2023-03-29,March,Q1,CUST1207,East,Bhubaneswar,Sports,Football,1,650.0,0,650.0,UPI,3.7
+ORD10369,2023-03-30,March,Q1,CUST1202,East,Guwahati,Clothing,Jacket,4,3470.0,0,13880.0,Cash on Delivery,4.4
+ORD10206,2023-03-30,March,Q1,CUST1312,West,Nagpur,Home & Kitchen,Water Bottle,1,440.0,10,396.0,Net Banking,3.4
+ORD10662,2023-03-31,March,Q1,CUST1178,North,Amritsar,Clothing,Saree,1,2630.0,10,2367.0,Net Banking,3.0
+ORD10344,2023-03-31,March,Q1,CUST1010,West,Mumbai,Electronics,Smartphone,1,17250.0,5,16387.5,Debit Card,4.0
+ORD10989,2023-03-31,March,Q1,CUST1253,North,Jaipur,Clothing,Jacket,1,3260.0,15,2771.0,Net Banking,3.3
+ORD10651,2023-04-01,April,Q2,CUST1249,North,Lucknow,Clothing,Jeans,1,2040.0,10,1836.0,UPI,4.8
+ORD10732,2023-04-01,April,Q2,CUST1391,East,Patna,Books,Self Help,4,470.0,15,1598.0,UPI,4.1
+ORD10430,2023-04-01,April,Q2,CUST1142,North,Chandigarh,Clothing,Jacket,1,3070.0,15,2609.5,Debit Card,3.5
+ORD10268,2023-04-01,April,Q2,CUST1166,West,Ahmedabad,Home & Kitchen,Air Fryer,1,6280.0,5,5966.0,Net Banking,3.6
+ORD10884,2023-04-02,April,Q2,CUST1150,West,Pune,Home & Kitchen,Mixer Grinder,1,3170.0,0,3170.0,Debit Card,4.0
+ORD10537,2023-04-02,April,Q2,CUST1452,West,Mumbai,Sports,Dumbbells Set,1,3740.0,15,3179.0,UPI,3.3
+ORD10645,2023-04-02,April,Q2,CUST1329,West,Mumbai,Clothing,Jacket,2,3600.0,20,5760.0,UPI,4.8
+ORD10389,2023-04-03,April,Q2,CUST1002,North,Lucknow,Home & Kitchen,Pressure Cooker,1,1760.0,0,1760.0,Net Banking,3.5
+ORD10538,2023-04-03,April,Q2,CUST1226,West,Nagpur,Home & Kitchen,Pressure Cooker,1,1860.0,20,1488.0,Cash on Delivery,4.8
+ORD10132,2023-04-03,April,Q2,CUST1382,South,Coimbatore,Books,Data Science Handbook,1,750.0,0,750.0,Debit Card,3.4
+ORD10921,2023-04-04,April,Q2,CUST1026,West,Mumbai,Electronics,Smart Watch,1,7800.0,5,7410.0,Credit Card,4.9
+ORD10069,2023-04-04,April,Q2,CUST1359,West,Pune,Home & Kitchen,Bedsheet Set,1,1080.0,20,864.0,Cash on Delivery,4.1
+ORD10709,2023-04-04,April,Q2,CUST1138,North,Amritsar,Clothing,Jacket,3,3240.0,10,8748.0,Cash on Delivery,3.2
+ORD10871,2023-04-05,April,Q2,CUST1058,North,Jaipur,Electronics,Smartphone,1,17810.0,20,14248.0,Credit Card,3.6
+ORD10692,2023-04-05,April,Q2,CUST1190,South,Coimbatore,Electronics,Earbuds,1,2860.0,5,2717.0,Net Banking,4.1
+ORD10567,2023-04-05,April,Q2,CUST1118,North,Amritsar,Sports,Dumbbells Set,1,3680.0,20,2944.0,Debit Card,3.5
+ORD10337,2023-04-06,April,Q2,CUST1125,East,Bhubaneswar,Books,Python Basics,5,540.0,20,2160.0,Cash on Delivery,4.0
+ORD10280,2023-04-06,April,Q2,CUST1303,West,Surat,Electronics,Tablet,1,24660.0,15,20961.0,Net Banking,3.8
+ORD10993,2023-04-06,April,Q2,CUST1043,West,Ahmedabad,Electronics,Smartphone,1,18140.0,5,17233.0,Debit Card,4.0
+ORD10559,2023-04-06,April,Q2,CUST1126,South,Coimbatore,Books,Novel,1,390.0,0,390.0,Debit Card,3.6
+ORD10179,2023-04-06,April,Q2,CUST1109,West,Nagpur,Books,Novel,3,320.0,15,816.0,Debit Card,3.6
+ORD10286,2023-04-06,April,Q2,CUST1248,East,Guwahati,Sports,Cricket Bat,1,2460.0,0,2460.0,Credit Card,3.4
+ORD10952,2023-04-07,April,Q2,CUST1295,North,Amritsar,Home & Kitchen,Pressure Cooker,1,2000.0,15,1700.0,UPI,3.6
+ORD10239,2023-04-08,April,Q2,CUST1411,North,Jaipur,Books,Novel,1,370.0,5,351.5,Debit Card,4.4
+ORD10374,2023-04-09,April,Q2,CUST1140,South,Bengaluru,Clothing,Men's T-Shirt,3,710.0,5,2023.5,Cash on Delivery,4.6
+ORD10046,2023-04-09,April,Q2,CUST1426,West,Surat,Clothing,Jacket,4,3440.0,20,11008.0,UPI,3.6
+ORD10073,2023-04-09,April,Q2,CUST1141,East,Kolkata,Sports,Yoga Mat,1,810.0,15,688.5,Debit Card,5.0
+ORD10872,2023-04-10,April,Q2,CUST1112,East,Kolkata,Electronics,Laptop,1,49370.0,5,46901.5,Cash on Delivery,4.4
+ORD10593,2023-04-10,April,Q2,CUST1079,East,Bhubaneswar,Books,Self Help,2,550.0,15,935.0,Net Banking,4.8
+ORD10266,2023-04-11,April,Q2,CUST1430,West,Mumbai,Clothing,Jeans,4,1710.0,10,6156.0,Debit Card,3.8
+ORD10550,2023-04-12,April,Q2,CUST1126,West,Surat,Sports,Yoga Mat,1,880.0,20,704.0,Credit Card,3.1
+ORD10199,2023-04-12,April,Q2,CUST1411,West,Nagpur,Electronics,Smartphone,1,16380.0,10,14742.0,Net Banking,4.0
+ORD10064,2023-04-12,April,Q2,CUST1412,North,Amritsar,Clothing,Men's T-Shirt,3,750.0,20,1800.0,UPI,4.6
+ORD10049,2023-04-12,April,Q2,CUST1435,South,Bengaluru,Electronics,Laptop,1,59590.0,20,47672.0,UPI,3.9
+ORD10426,2023-04-13,April,Q2,CUST1353,East,Patna,Home & Kitchen,Bedsheet Set,1,1030.0,0,1030.0,Cash on Delivery,3.4
+ORD10482,2023-04-13,April,Q2,CUST1468,North,Delhi,Electronics,Tablet,1,21360.0,20,17088.0,Debit Card,3.7
+ORD10170,2023-04-13,April,Q2,CUST1242,North,Jaipur,Home & Kitchen,Water Bottle,1,450.0,20,360.0,Cash on Delivery,3.1
+ORD10213,2023-04-13,April,Q2,CUST1333,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,1,3610.0,0,3610.0,Debit Card,3.5
+ORD10400,2023-04-14,April,Q2,CUST1466,East,Guwahati,Home & Kitchen,Pressure Cooker,1,1640.0,15,1394.0,Credit Card,4.4
+ORD10881,2023-04-14,April,Q2,CUST1080,West,Pune,Books,Python Basics,4,580.0,20,1856.0,Cash on Delivery,3.5
+ORD10809,2023-04-14,April,Q2,CUST1174,West,Surat,Electronics,Laptop,1,57650.0,15,49002.5,Cash on Delivery,4.0
+ORD10429,2023-04-14,April,Q2,CUST1100,West,Pune,Home & Kitchen,Water Bottle,1,470.0,20,376.0,Credit Card,3.6
+ORD10191,2023-04-15,April,Q2,CUST1499,East,Ranchi,Clothing,Jeans,3,2120.0,10,5724.0,Net Banking,3.3
+ORD10686,2023-04-15,April,Q2,CUST1215,North,Jaipur,Books,Novel,4,400.0,10,1440.0,Net Banking,4.5
+ORD10897,2023-04-16,April,Q2,CUST1081,South,Chennai,Home & Kitchen,Air Fryer,1,6070.0,15,5159.5,Debit Card,4.2
+ORD10359,2023-04-16,April,Q2,CUST1401,South,Hyderabad,Electronics,Smart Watch,1,9440.0,10,8496.0,Net Banking,3.9
+ORD10833,2023-04-16,April,Q2,CUST1205,South,Coimbatore,Books,Data Science Handbook,5,880.0,10,3960.0,Debit Card,3.1
+ORD10815,2023-04-16,April,Q2,CUST1275,West,Ahmedabad,Books,Python Basics,1,670.0,0,670.0,Cash on Delivery,3.8
+ORD10564,2023-04-16,April,Q2,CUST1352,South,Coimbatore,Sports,Yoga Mat,1,950.0,10,855.0,Debit Card,4.8
+ORD10277,2023-04-16,April,Q2,CUST1034,West,Ahmedabad,Books,Data Science Handbook,4,810.0,10,2916.0,Cash on Delivery,3.1
+ORD10602,2023-04-18,April,Q2,CUST1343,East,Patna,Clothing,Jeans,3,1840.0,15,4692.0,UPI,3.5
+ORD10494,2023-04-18,April,Q2,CUST1095,West,Nagpur,Electronics,Earbuds,1,2480.0,10,2232.0,Debit Card,3.5
+ORD10047,2023-04-18,April,Q2,CUST1345,West,Nagpur,Sports,Dumbbells Set,1,3560.0,15,3026.0,Credit Card,4.0
+ORD10935,2023-04-18,April,Q2,CUST1049,West,Ahmedabad,Electronics,Laptop,1,57410.0,0,57410.0,UPI,4.5
+ORD10913,2023-04-19,April,Q2,CUST1022,West,Pune,Electronics,Earbuds,1,2660.0,10,2394.0,UPI,4.8
+ORD10555,2023-04-19,April,Q2,CUST1373,South,Coimbatore,Sports,Dumbbells Set,1,3630.0,20,2904.0,Credit Card,4.4
+ORD10195,2023-04-21,April,Q2,CUST1146,East,Kolkata,Electronics,Earbuds,1,2560.0,15,2176.0,Debit Card,3.0
+ORD10974,2023-04-21,April,Q2,CUST1133,East,Bhubaneswar,Clothing,Jacket,5,3320.0,10,14940.0,Net Banking,4.3
+ORD10288,2023-04-23,April,Q2,CUST1399,East,Kolkata,Home & Kitchen,Pressure Cooker,1,1860.0,5,1767.0,Net Banking,4.1
+ORD10514,2023-04-23,April,Q2,CUST1145,East,Kolkata,Books,Python Basics,5,620.0,10,2790.0,Debit Card,4.6
+ORD10342,2023-04-23,April,Q2,CUST1467,West,Ahmedabad,Clothing,Women's Kurta,3,1250.0,10,3375.0,Debit Card,3.1
+ORD10334,2023-04-24,April,Q2,CUST1300,South,Chennai,Books,Business Strategy,1,960.0,20,768.0,Cash on Delivery,4.8
+ORD10275,2023-04-24,April,Q2,CUST1077,West,Ahmedabad,Books,Self Help,5,550.0,20,2200.0,Cash on Delivery,5.0
+ORD10384,2023-04-24,April,Q2,CUST1092,West,Ahmedabad,Sports,Dumbbells Set,1,3890.0,20,3112.0,Cash on Delivery,3.2
+ORD10697,2023-04-24,April,Q2,CUST1346,East,Patna,Electronics,Smartphone,1,18620.0,15,15827.0,UPI,5.0
+ORD10040,2023-04-24,April,Q2,CUST1114,South,Kochi,Home & Kitchen,Bedsheet Set,1,1220.0,5,1159.0,UPI,4.3
+ORD10805,2023-04-25,April,Q2,CUST1136,West,Ahmedabad,Home & Kitchen,Bedsheet Set,1,1200.0,20,960.0,Credit Card,4.7
+ORD10395,2023-04-25,April,Q2,CUST1187,South,Chennai,Electronics,Tablet,1,22580.0,0,22580.0,UPI,3.8
+ORD10412,2023-04-25,April,Q2,CUST1045,West,Surat,Clothing,Men's T-Shirt,5,710.0,15,3017.5,Net Banking,3.9
+ORD10856,2023-04-26,April,Q2,CUST1320,West,Mumbai,Clothing,Women's Kurta,3,1220.0,0,3660.0,UPI,3.1
+ORD10562,2023-04-26,April,Q2,CUST1491,South,Hyderabad,Books,Python Basics,4,550.0,20,1760.0,Debit Card,4.7
+ORD10546,2023-04-27,April,Q2,CUST1276,North,Lucknow,Electronics,Earbuds,1,2580.0,10,2322.0,Debit Card,3.3
+ORD10811,2023-04-27,April,Q2,CUST1483,South,Kochi,Books,Self Help,5,560.0,10,2520.0,UPI,3.9
+ORD10441,2023-04-27,April,Q2,CUST1008,East,Guwahati,Books,Self Help,4,530.0,10,1908.0,Net Banking,4.3
+ORD10920,2023-04-28,April,Q2,CUST1311,East,Bhubaneswar,Clothing,Women's Kurta,2,1340.0,5,2546.0,Net Banking,4.0
+ORD10082,2023-04-30,April,Q2,CUST1465,East,Ranchi,Clothing,Saree,2,2320.0,5,4408.0,Cash on Delivery,4.7
+ORD10895,2023-04-30,April,Q2,CUST1005,East,Ranchi,Electronics,Smart Watch,1,7770.0,20,6216.0,Credit Card,3.7
+ORD10472,2023-04-30,April,Q2,CUST1002,North,Jaipur,Sports,Football,1,700.0,5,665.0,UPI,4.2
+ORD10553,2023-04-30,April,Q2,CUST1485,South,Hyderabad,Clothing,Men's T-Shirt,1,650.0,5,617.5,Debit Card,4.9
+ORD10819,2023-05-01,May,Q2,CUST1344,South,Hyderabad,Home & Kitchen,Bedsheet Set,1,1170.0,20,936.0,Credit Card,4.4
+ORD10752,2023-05-01,May,Q2,CUST1209,West,Pune,Clothing,Men's T-Shirt,3,660.0,15,1683.0,Cash on Delivery,4.7
+ORD10663,2023-05-01,May,Q2,CUST1259,South,Bengaluru,Sports,Cricket Bat,1,2320.0,20,1856.0,Credit Card,3.9
+ORD10757,2023-05-01,May,Q2,CUST1140,East,Patna,Clothing,Saree,4,2640.0,0,10560.0,UPI,4.6
+ORD10667,2023-05-01,May,Q2,CUST1117,West,Nagpur,Sports,Dumbbells Set,1,3520.0,10,3168.0,UPI,3.7
+ORD10029,2023-05-01,May,Q2,CUST1317,West,Mumbai,Sports,Yoga Mat,1,890.0,0,890.0,UPI,3.8
+ORD10025,2023-05-02,May,Q2,CUST1084,South,Kochi,Books,Self Help,4,480.0,0,1920.0,Net Banking,3.0
+ORD10756,2023-05-02,May,Q2,CUST1154,West,Surat,Electronics,Smart Watch,1,9620.0,10,8658.0,UPI,4.9
+ORD10326,2023-05-02,May,Q2,CUST1022,West,Surat,Electronics,Laptop,1,56050.0,0,56050.0,Credit Card,4.8
+ORD10747,2023-05-03,May,Q2,CUST1248,North,Chandigarh,Clothing,Men's T-Shirt,3,670.0,15,1708.5,Debit Card,5.0
+ORD10309,2023-05-03,May,Q2,CUST1036,West,Surat,Electronics,Laptop,1,53290.0,20,42632.0,Debit Card,4.8
+ORD10736,2023-05-07,May,Q2,CUST1444,South,Hyderabad,Sports,Cricket Bat,1,2480.0,0,2480.0,Cash on Delivery,3.2
+ORD10571,2023-05-07,May,Q2,CUST1368,West,Surat,Electronics,Tablet,1,23840.0,15,20264.0,Cash on Delivery,3.8
+ORD10899,2023-05-07,May,Q2,CUST1147,East,Ranchi,Books,Self Help,1,510.0,0,510.0,Net Banking,3.7
+ORD10207,2023-05-07,May,Q2,CUST1394,East,Ranchi,Home & Kitchen,Pressure Cooker,1,2040.0,10,1836.0,Cash on Delivery,4.4
+ORD10543,2023-05-08,May,Q2,CUST1469,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3340.0,20,2672.0,Credit Card,4.5
+ORD10219,2023-05-08,May,Q2,CUST1154,North,Jaipur,Books,Python Basics,3,610.0,10,1647.0,Debit Card,4.4
+ORD10410,2023-05-08,May,Q2,CUST1027,West,Ahmedabad,Books,Python Basics,5,660.0,20,2640.0,UPI,4.3
+ORD10761,2023-05-08,May,Q2,CUST1088,South,Coimbatore,Books,Business Strategy,2,910.0,10,1638.0,Debit Card,4.7
+ORD10273,2023-05-08,May,Q2,CUST1495,East,Patna,Sports,Cricket Bat,1,2290.0,15,1946.5,Cash on Delivery,4.9
+ORD10640,2023-05-09,May,Q2,CUST1336,South,Bengaluru,Electronics,Tablet,1,20310.0,20,16248.0,Credit Card,4.9
+ORD10035,2023-05-09,May,Q2,CUST1326,North,Delhi,Books,Business Strategy,3,820.0,5,2337.0,Cash on Delivery,3.3
+ORD10089,2023-05-10,May,Q2,CUST1236,East,Kolkata,Books,Novel,1,390.0,20,312.0,Net Banking,3.1
+ORD10930,2023-05-11,May,Q2,CUST1376,East,Ranchi,Books,Business Strategy,4,970.0,15,3298.0,Credit Card,3.5
+ORD10110,2023-05-12,May,Q2,CUST1072,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3250.0,0,3250.0,Credit Card,4.7
+ORD10818,2023-05-13,May,Q2,CUST1377,East,Kolkata,Electronics,Smartphone,1,18220.0,20,14576.0,UPI,3.9
+ORD10646,2023-05-13,May,Q2,CUST1397,North,Delhi,Electronics,Smartphone,1,18770.0,10,16893.0,Net Banking,3.0
+ORD10764,2023-05-14,May,Q2,CUST1007,South,Bengaluru,Home & Kitchen,Pressure Cooker,1,2050.0,0,2050.0,Debit Card,3.9
+ORD10361,2023-05-15,May,Q2,CUST1031,West,Surat,Home & Kitchen,Pressure Cooker,1,2000.0,20,1600.0,Credit Card,4.5
+ORD10549,2023-05-15,May,Q2,CUST1390,North,Lucknow,Sports,Badminton Racket,1,1530.0,5,1453.5,Credit Card,4.0
+ORD10790,2023-05-16,May,Q2,CUST1446,East,Patna,Clothing,Women's Kurta,5,1190.0,10,5355.0,UPI,3.9
+ORD10773,2023-05-16,May,Q2,CUST1284,East,Guwahati,Clothing,Jeans,4,2060.0,5,7828.0,Net Banking,3.1
+ORD10099,2023-05-16,May,Q2,CUST1488,East,Ranchi,Books,Data Science Handbook,5,890.0,15,3782.5,Cash on Delivery,4.3
+ORD10738,2023-05-17,May,Q2,CUST1292,North,Lucknow,Sports,Cricket Bat,1,2520.0,15,2142.0,Net Banking,3.6
+ORD10495,2023-05-18,May,Q2,CUST1107,West,Nagpur,Home & Kitchen,Bedsheet Set,1,1040.0,15,884.0,Net Banking,4.4
+ORD10976,2023-05-18,May,Q2,CUST1420,South,Hyderabad,Sports,Football,1,730.0,15,620.5,Credit Card,3.6
+ORD10497,2023-05-19,May,Q2,CUST1412,South,Coimbatore,Books,Self Help,2,470.0,15,799.0,UPI,3.4
+ORD10093,2023-05-20,May,Q2,CUST1097,West,Surat,Books,Python Basics,2,610.0,15,1037.0,Debit Card,4.0
+ORD10135,2023-05-20,May,Q2,CUST1347,South,Coimbatore,Electronics,Earbuds,1,2520.0,10,2268.0,Debit Card,4.0
+ORD10329,2023-05-20,May,Q2,CUST1079,South,Bengaluru,Clothing,Women's Kurta,5,1420.0,0,7100.0,UPI,3.3
+ORD10631,2023-05-21,May,Q2,CUST1378,East,Kolkata,Electronics,Tablet,1,20760.0,20,16608.0,Credit Card,4.3
+ORD10460,2023-05-21,May,Q2,CUST1187,East,Ranchi,Sports,Football,1,660.0,15,561.0,Debit Card,4.3
+ORD10483,2023-05-22,May,Q2,CUST1133,South,Coimbatore,Clothing,Saree,5,2830.0,0,14150.0,Credit Card,3.8
+ORD10643,2023-05-22,May,Q2,CUST1397,West,Ahmedabad,Home & Kitchen,Pressure Cooker,1,1970.0,10,1773.0,UPI,3.8
+ORD10117,2023-05-22,May,Q2,CUST1025,South,Bengaluru,Books,Data Science Handbook,5,850.0,0,4250.0,Cash on Delivery,3.5
+ORD10626,2023-05-24,May,Q2,CUST1125,West,Nagpur,Electronics,Tablet,1,24690.0,0,24690.0,Net Banking,4.3
+ORD10762,2023-05-25,May,Q2,CUST1114,South,Bengaluru,Books,Business Strategy,4,850.0,20,2720.0,UPI,4.9
+ORD10517,2023-05-25,May,Q2,CUST1252,East,Patna,Books,Data Science Handbook,2,770.0,0,1540.0,Credit Card,3.7
+ORD10690,2023-05-26,May,Q2,CUST1093,West,Pune,Sports,Yoga Mat,1,920.0,10,828.0,Credit Card,4.7
+ORD10308,2023-05-26,May,Q2,CUST1151,North,Jaipur,Clothing,Jacket,2,3470.0,15,5899.0,UPI,4.6
+ORD10107,2023-05-27,May,Q2,CUST1128,South,Coimbatore,Home & Kitchen,Pressure Cooker,1,1910.0,20,1528.0,Credit Card,4.3
+ORD10986,2023-05-27,May,Q2,CUST1254,West,Mumbai,Books,Novel,2,400.0,15,680.0,Debit Card,4.4
+ORD10250,2023-05-27,May,Q2,CUST1076,North,Amritsar,Books,Python Basics,1,560.0,20,448.0,Credit Card,3.4
+ORD10554,2023-05-28,May,Q2,CUST1169,North,Jaipur,Electronics,Earbuds,1,2530.0,0,2530.0,Credit Card,4.5
+ORD10703,2023-05-29,May,Q2,CUST1378,West,Mumbai,Home & Kitchen,Water Bottle,1,440.0,20,352.0,Net Banking,3.4
+ORD10866,2023-05-30,May,Q2,CUST1029,East,Kolkata,Sports,Football,1,740.0,5,703.0,Credit Card,4.0
+ORD10808,2023-05-30,May,Q2,CUST1419,West,Nagpur,Books,Data Science Handbook,3,750.0,10,2025.0,Credit Card,3.2
+ORD10630,2023-05-30,May,Q2,CUST1129,North,Jaipur,Books,Data Science Handbook,1,740.0,10,666.0,Credit Card,4.2
+ORD10801,2023-05-31,May,Q2,CUST1318,West,Surat,Home & Kitchen,Air Fryer,1,6050.0,5,5747.5,Credit Card,3.6
+ORD10027,2023-06-01,June,Q2,CUST1029,South,Bengaluru,Sports,Football,1,640.0,10,576.0,UPI,4.2
+ORD10383,2023-06-01,June,Q2,CUST1417,East,Guwahati,Books,Self Help,5,540.0,20,2160.0,Credit Card,3.7
+ORD10676,2023-06-01,June,Q2,CUST1360,South,Bengaluru,Electronics,Smart Watch,1,9070.0,5,8616.5,Net Banking,4.7
+ORD10095,2023-06-02,June,Q2,CUST1390,West,Pune,Books,Novel,3,360.0,20,864.0,Debit Card,3.8
+ORD10522,2023-06-02,June,Q2,CUST1324,South,Hyderabad,Electronics,Laptop,1,59450.0,5,56477.5,Net Banking,3.6
+ORD10256,2023-06-03,June,Q2,CUST1169,South,Coimbatore,Clothing,Jacket,4,3660.0,20,11712.0,Net Banking,4.5
+ORD10235,2023-06-03,June,Q2,CUST1320,East,Kolkata,Sports,Football,1,780.0,5,741.0,Net Banking,4.1
+ORD10598,2023-06-04,June,Q2,CUST1227,South,Bengaluru,Home & Kitchen,Mixer Grinder,1,3500.0,0,3500.0,Debit Card,3.0
+ORD10190,2023-06-04,June,Q2,CUST1225,West,Pune,Books,Business Strategy,1,910.0,5,864.5,Net Banking,4.0
+ORD10078,2023-06-05,June,Q2,CUST1305,North,Chandigarh,Electronics,Tablet,1,24000.0,20,19200.0,Debit Card,3.5
+ORD10271,2023-06-05,June,Q2,CUST1306,South,Hyderabad,Clothing,Saree,1,2740.0,15,2329.0,Net Banking,4.2
+ORD10574,2023-06-05,June,Q2,CUST1462,East,Guwahati,Clothing,Saree,1,2430.0,20,1944.0,Credit Card,3.9
+ORD10827,2023-06-06,June,Q2,CUST1034,East,Patna,Clothing,Saree,5,2250.0,10,10125.0,UPI,3.8
+ORD10261,2023-06-07,June,Q2,CUST1220,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,2990.0,5,2840.5,Net Banking,4.1
+ORD10898,2023-06-08,June,Q2,CUST1032,South,Coimbatore,Books,Business Strategy,2,850.0,15,1445.0,Net Banking,4.2
+ORD10518,2023-06-09,June,Q2,CUST1136,West,Ahmedabad,Books,Data Science Handbook,2,790.0,0,1580.0,Net Banking,3.1
+ORD10043,2023-06-10,June,Q2,CUST1097,West,Nagpur,Sports,Cricket Bat,1,2190.0,20,1752.0,Cash on Delivery,3.1
+ORD10284,2023-06-10,June,Q2,CUST1261,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,3030.0,5,2878.5,Net Banking,3.8
+ORD10814,2023-06-10,June,Q2,CUST1358,East,Kolkata,Home & Kitchen,Water Bottle,1,470.0,5,446.5,Net Banking,3.9
+ORD10597,2023-06-11,June,Q2,CUST1231,North,Jaipur,Books,Data Science Handbook,2,820.0,10,1476.0,Cash on Delivery,3.4
+ORD10433,2023-06-12,June,Q2,CUST1212,South,Chennai,Sports,Cricket Bat,1,2410.0,5,2289.5,Debit Card,4.1
+ORD10604,2023-06-13,June,Q2,CUST1159,East,Patna,Home & Kitchen,Water Bottle,1,430.0,0,430.0,Debit Card,4.8
+ORD10321,2023-06-13,June,Q2,CUST1091,East,Kolkata,Sports,Dumbbells Set,1,3250.0,0,3250.0,Credit Card,4.6
+ORD10354,2023-06-13,June,Q2,CUST1082,East,Kolkata,Electronics,Earbuds,1,2360.0,15,2006.0,UPI,4.1
+ORD10421,2023-06-14,June,Q2,CUST1496,West,Surat,Sports,Yoga Mat,1,820.0,10,738.0,Cash on Delivery,3.9
+ORD10096,2023-06-14,June,Q2,CUST1022,South,Chennai,Sports,Badminton Racket,1,1340.0,15,1139.0,Cash on Delivery,4.5
+ORD10658,2023-06-14,June,Q2,CUST1140,South,Bengaluru,Sports,Yoga Mat,1,840.0,0,840.0,Credit Card,4.5
+ORD10147,2023-06-14,June,Q2,CUST1258,West,Nagpur,Clothing,Men's T-Shirt,3,710.0,0,2130.0,Credit Card,3.1
+ORD10298,2023-06-15,June,Q2,CUST1403,East,Bhubaneswar,Sports,Football,1,650.0,15,552.5,Cash on Delivery,4.8
+ORD10837,2023-06-15,June,Q2,CUST1300,East,Guwahati,Electronics,Smartphone,1,17110.0,20,13688.0,Credit Card,4.0
+ORD10577,2023-06-15,June,Q2,CUST1043,South,Bengaluru,Electronics,Smartphone,1,19380.0,10,17442.0,Debit Card,4.4
+ORD10544,2023-06-16,June,Q2,CUST1328,West,Pune,Books,Novel,1,390.0,20,312.0,Cash on Delivery,3.1
+ORD10140,2023-06-16,June,Q2,CUST1223,South,Coimbatore,Books,Business Strategy,1,830.0,5,788.5,Debit Card,3.8
+ORD10945,2023-06-16,June,Q2,CUST1406,West,Pune,Sports,Badminton Racket,1,1400.0,20,1120.0,UPI,3.7
+ORD10949,2023-06-17,June,Q2,CUST1472,West,Ahmedabad,Clothing,Jeans,1,2030.0,5,1928.5,Debit Card,4.3
+ORD10174,2023-06-17,June,Q2,CUST1179,East,Bhubaneswar,Books,Novel,2,380.0,15,646.0,Net Banking,3.1
+ORD10088,2023-06-18,June,Q2,CUST1018,West,Surat,Home & Kitchen,Air Fryer,1,6070.0,20,4856.0,Net Banking,3.2
+ORD10919,2023-06-18,June,Q2,CUST1331,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3300.0,15,2805.0,Cash on Delivery,4.5
+ORD10267,2023-06-18,June,Q2,CUST1485,West,Ahmedabad,Books,Novel,3,330.0,20,792.0,Credit Card,4.0
+ORD10997,2023-06-19,June,Q2,CUST1215,North,Chandigarh,Clothing,Saree,3,2850.0,0,8550.0,Net Banking,4.1
+ORD10440,2023-06-19,June,Q2,CUST1285,North,Delhi,Electronics,Smartphone,1,17000.0,10,15300.0,UPI,4.1
+ORD10345,2023-06-19,June,Q2,CUST1030,South,Chennai,Home & Kitchen,Pressure Cooker,1,2030.0,10,1827.0,UPI,3.3
+ORD10386,2023-06-19,June,Q2,CUST1240,East,Bhubaneswar,Sports,Dumbbells Set,1,3560.0,0,3560.0,UPI,4.7
+ORD10452,2023-06-19,June,Q2,CUST1055,West,Surat,Books,Business Strategy,4,980.0,20,3136.0,Credit Card,4.3
+ORD10927,2023-06-20,June,Q2,CUST1441,South,Kochi,Clothing,Women's Kurta,1,1470.0,0,1470.0,Debit Card,4.5
+ORD10039,2023-06-20,June,Q2,CUST1195,West,Pune,Home & Kitchen,Pressure Cooker,1,1970.0,0,1970.0,UPI,4.7
+ORD10858,2023-06-20,June,Q2,CUST1320,South,Bengaluru,Sports,Football,1,710.0,0,710.0,Net Banking,4.2
+ORD10644,2023-06-20,June,Q2,CUST1475,North,Jaipur,Home & Kitchen,Pressure Cooker,1,1820.0,15,1547.0,Credit Card,4.2
+ORD10500,2023-06-21,June,Q2,CUST1176,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,470.0,10,423.0,UPI,3.8
+ORD10394,2023-06-22,June,Q2,CUST1084,West,Pune,Home & Kitchen,Air Fryer,1,5440.0,5,5168.0,Net Banking,3.0
+ORD10347,2023-06-22,June,Q2,CUST1332,East,Bhubaneswar,Clothing,Women's Kurta,4,1410.0,15,4794.0,Cash on Delivery,3.3
+ORD10726,2023-06-23,June,Q2,CUST1142,South,Coimbatore,Books,Data Science Handbook,4,770.0,15,2618.0,Debit Card,4.2
+ORD10873,2023-06-23,June,Q2,CUST1010,South,Chennai,Clothing,Men's T-Shirt,3,660.0,0,1980.0,Credit Card,3.8
+ORD10477,2023-06-23,June,Q2,CUST1474,North,Chandigarh,Books,Data Science Handbook,2,880.0,15,1496.0,Debit Card,3.9
+ORD10525,2023-06-23,June,Q2,CUST1064,North,Delhi,Home & Kitchen,Pressure Cooker,1,1940.0,0,1940.0,Net Banking,3.5
+ORD10149,2023-06-23,June,Q2,CUST1145,North,Jaipur,Electronics,Earbuds,1,2310.0,15,1963.5,Cash on Delivery,4.4
+ORD10613,2023-06-25,June,Q2,CUST1303,South,Chennai,Electronics,Tablet,1,24400.0,0,24400.0,Debit Card,3.9
+ORD10405,2023-06-25,June,Q2,CUST1353,South,Bengaluru,Books,Self Help,3,570.0,15,1453.5,Net Banking,4.6
+ORD10988,2023-06-26,June,Q2,CUST1345,South,Coimbatore,Sports,Cricket Bat,1,2310.0,5,2194.5,Debit Card,4.8
+ORD10634,2023-06-26,June,Q2,CUST1243,North,Jaipur,Electronics,Smartphone,1,16950.0,15,14407.5,Cash on Delivery,4.0
+ORD10552,2023-06-26,June,Q2,CUST1074,North,Jaipur,Clothing,Jeans,4,2000.0,20,6400.0,Net Banking,3.1
+ORD10072,2023-06-26,June,Q2,CUST1156,West,Nagpur,Home & Kitchen,Bedsheet Set,1,1180.0,10,1062.0,Cash on Delivery,3.5
+ORD10493,2023-06-27,June,Q2,CUST1352,West,Pune,Books,Data Science Handbook,4,860.0,10,3096.0,UPI,3.0
+ORD10160,2023-06-28,June,Q2,CUST1197,North,Lucknow,Electronics,Smart Watch,1,8720.0,5,8284.0,UPI,3.7
+ORD10718,2023-06-28,June,Q2,CUST1034,East,Patna,Sports,Football,1,670.0,20,536.0,UPI,4.6
+ORD10591,2023-06-29,June,Q2,CUST1153,South,Bengaluru,Clothing,Jeans,1,1830.0,10,1647.0,Debit Card,4.1
+ORD10501,2023-06-29,June,Q2,CUST1181,South,Coimbatore,Sports,Football,1,660.0,10,594.0,Cash on Delivery,4.3
+ORD10175,2023-06-30,June,Q2,CUST1186,West,Ahmedabad,Electronics,Smartphone,1,19220.0,15,16337.0,Debit Card,4.6
+ORD10145,2023-06-30,June,Q2,CUST1039,North,Jaipur,Books,Self Help,3,450.0,10,1215.0,UPI,4.2
+ORD10129,2023-06-30,June,Q2,CUST1114,North,Amritsar,Sports,Yoga Mat,1,800.0,15,680.0,UPI,3.7
+ORD10246,2023-06-30,June,Q2,CUST1328,South,Chennai,Sports,Badminton Racket,1,1320.0,20,1056.0,UPI,4.0
+ORD10996,2023-07-01,July,Q3,CUST1020,West,Mumbai,Home & Kitchen,Pressure Cooker,1,1670.0,10,1503.0,Credit Card,3.8
+ORD10788,2023-07-01,July,Q3,CUST1091,East,Ranchi,Electronics,Tablet,1,19890.0,15,16906.5,Credit Card,4.7
+ORD10038,2023-07-01,July,Q3,CUST1012,West,Nagpur,Clothing,Women's Kurta,2,1450.0,15,2465.0,Credit Card,4.5
+ORD10332,2023-07-02,July,Q3,CUST1015,West,Nagpur,Electronics,Earbuds,1,2410.0,5,2289.5,Net Banking,4.7
+ORD10708,2023-07-02,July,Q3,CUST1263,North,Jaipur,Home & Kitchen,Water Bottle,1,480.0,0,480.0,Credit Card,4.5
+ORD10120,2023-07-03,July,Q3,CUST1064,South,Coimbatore,Home & Kitchen,Mixer Grinder,1,3020.0,0,3020.0,Net Banking,4.1
+ORD10459,2023-07-04,July,Q3,CUST1360,West,Surat,Books,Data Science Handbook,3,730.0,0,2190.0,Debit Card,4.3
+ORD10481,2023-07-04,July,Q3,CUST1342,South,Bengaluru,Clothing,Men's T-Shirt,4,800.0,10,2880.0,Net Banking,3.8
+ORD10006,2023-07-05,July,Q3,CUST1437,South,Bengaluru,Electronics,Laptop,1,56850.0,0,56850.0,Credit Card,4.7
+ORD10713,2023-07-05,July,Q3,CUST1088,South,Kochi,Sports,Football,1,760.0,10,684.0,Cash on Delivery,3.1
+ORD10971,2023-07-06,July,Q3,CUST1463,South,Kochi,Electronics,Laptop,1,50710.0,20,40568.0,Cash on Delivery,4.3
+ORD10995,2023-07-06,July,Q3,CUST1336,West,Pune,Sports,Dumbbells Set,1,3250.0,15,2762.5,Net Banking,3.3
+ORD10296,2023-07-08,July,Q3,CUST1374,West,Surat,Home & Kitchen,Water Bottle,1,410.0,0,410.0,Net Banking,4.3
+ORD10112,2023-07-08,July,Q3,CUST1012,East,Ranchi,Books,Business Strategy,2,830.0,15,1411.0,Debit Card,4.8
+ORD10323,2023-07-08,July,Q3,CUST1237,South,Hyderabad,Sports,Dumbbells Set,1,3800.0,5,3610.0,Cash on Delivery,4.2
+ORD10304,2023-07-08,July,Q3,CUST1271,East,Patna,Books,Python Basics,2,640.0,0,1280.0,Debit Card,3.0
+ORD10116,2023-07-09,July,Q3,CUST1278,South,Kochi,Books,Python Basics,1,670.0,10,603.0,Cash on Delivery,3.1
+ORD10822,2023-07-09,July,Q3,CUST1299,West,Nagpur,Sports,Football,1,770.0,10,693.0,Net Banking,4.3
+ORD10632,2023-07-09,July,Q3,CUST1175,South,Hyderabad,Clothing,Saree,5,2360.0,0,11800.0,UPI,4.9
+ORD10192,2023-07-09,July,Q3,CUST1072,North,Jaipur,Clothing,Saree,4,2330.0,5,8854.0,UPI,3.1
+ORD10301,2023-07-10,July,Q3,CUST1335,South,Bengaluru,Books,Business Strategy,2,970.0,15,1649.0,UPI,4.4
+ORD10496,2023-07-10,July,Q3,CUST1294,East,Guwahati,Home & Kitchen,Air Fryer,1,5200.0,5,4940.0,Credit Card,4.6
+ORD10826,2023-07-11,July,Q3,CUST1215,East,Bhubaneswar,Books,Data Science Handbook,2,880.0,20,1408.0,UPI,4.9
+ORD10928,2023-07-11,July,Q3,CUST1250,West,Surat,Books,Self Help,3,570.0,15,1453.5,Cash on Delivery,4.3
+ORD10437,2023-07-11,July,Q3,CUST1164,West,Surat,Electronics,Earbuds,1,2810.0,5,2669.5,Debit Card,3.2
+ORD10102,2023-07-11,July,Q3,CUST1089,West,Pune,Clothing,Jacket,2,3310.0,5,6289.0,UPI,4.2
+ORD10379,2023-07-12,July,Q3,CUST1422,East,Guwahati,Home & Kitchen,Pressure Cooker,1,1830.0,20,1464.0,Debit Card,3.8
+ORD10596,2023-07-12,July,Q3,CUST1442,South,Coimbatore,Sports,Badminton Racket,1,1330.0,0,1330.0,Cash on Delivery,4.4
+ORD10259,2023-07-12,July,Q3,CUST1151,West,Pune,Sports,Badminton Racket,1,1290.0,20,1032.0,Credit Card,4.4
+ORD10353,2023-07-12,July,Q3,CUST1409,North,Lucknow,Sports,Yoga Mat,1,800.0,0,800.0,UPI,3.6
+ORD10540,2023-07-12,July,Q3,CUST1145,East,Bhubaneswar,Books,Self Help,1,570.0,0,570.0,Debit Card,3.0
+ORD10848,2023-07-12,July,Q3,CUST1227,East,Guwahati,Clothing,Men's T-Shirt,3,650.0,5,1852.5,UPI,3.4
+ORD10957,2023-07-12,July,Q3,CUST1472,North,Jaipur,Clothing,Women's Kurta,2,1440.0,0,2880.0,Credit Card,4.7
+ORD10734,2023-07-13,July,Q3,CUST1065,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,1,2900.0,0,2900.0,Cash on Delivery,3.7
+ORD10229,2023-07-13,July,Q3,CUST1060,West,Mumbai,Sports,Yoga Mat,1,900.0,10,810.0,Credit Card,5.0
+ORD10876,2023-07-13,July,Q3,CUST1471,East,Bhubaneswar,Sports,Badminton Racket,1,1600.0,5,1520.0,UPI,4.5
+ORD10007,2023-07-14,July,Q3,CUST1343,East,Guwahati,Home & Kitchen,Pressure Cooker,1,1790.0,5,1700.5,Cash on Delivery,4.4
+ORD10242,2023-07-14,July,Q3,CUST1451,West,Nagpur,Home & Kitchen,Bedsheet Set,1,1060.0,20,848.0,Net Banking,3.9
+ORD10615,2023-07-14,July,Q3,CUST1454,East,Guwahati,Electronics,Smartphone,1,17180.0,5,16321.0,Debit Card,4.8
+ORD10245,2023-07-14,July,Q3,CUST1494,South,Kochi,Sports,Dumbbells Set,1,3380.0,15,2873.0,Net Banking,3.9
+ORD10264,2023-07-14,July,Q3,CUST1032,South,Chennai,Home & Kitchen,Bedsheet Set,1,1060.0,5,1007.0,Credit Card,3.9
+ORD10209,2023-07-14,July,Q3,CUST1473,West,Ahmedabad,Clothing,Jeans,1,1730.0,10,1557.0,Net Banking,4.3
+ORD10586,2023-07-14,July,Q3,CUST1062,North,Lucknow,Sports,Cricket Bat,1,2140.0,5,2033.0,Cash on Delivery,3.7
+ORD10231,2023-07-14,July,Q3,CUST1016,South,Chennai,Books,Business Strategy,2,840.0,0,1680.0,Net Banking,4.2
+ORD10951,2023-07-15,July,Q3,CUST1045,West,Pune,Clothing,Jeans,1,1760.0,0,1760.0,Cash on Delivery,4.5
+ORD10934,2023-07-15,July,Q3,CUST1416,East,Guwahati,Electronics,Smartphone,1,19060.0,10,17154.0,Credit Card,3.5
+ORD10103,2023-07-15,July,Q3,CUST1235,South,Kochi,Sports,Yoga Mat,1,810.0,10,729.0,Cash on Delivery,4.3
+ORD10320,2023-07-16,July,Q3,CUST1114,South,Chennai,Electronics,Tablet,1,24220.0,15,20587.0,Cash on Delivery,3.5
+ORD10287,2023-07-16,July,Q3,CUST1085,West,Surat,Books,Self Help,4,540.0,15,1836.0,UPI,4.1
+ORD10621,2023-07-16,July,Q3,CUST1005,East,Guwahati,Clothing,Jeans,2,2180.0,5,4142.0,UPI,4.3
+ORD10193,2023-07-16,July,Q3,CUST1390,West,Pune,Clothing,Jeans,3,2150.0,5,6127.5,Credit Card,4.0
+ORD10391,2023-07-16,July,Q3,CUST1456,North,Delhi,Sports,Yoga Mat,1,920.0,0,920.0,Cash on Delivery,4.5
+ORD10055,2023-07-16,July,Q3,CUST1238,South,Chennai,Electronics,Smart Watch,1,8520.0,20,6816.0,Net Banking,3.1
+ORD10263,2023-07-17,July,Q3,CUST1292,North,Jaipur,Books,Self Help,5,550.0,5,2612.5,Debit Card,3.3
+ORD10363,2023-07-18,July,Q3,CUST1040,West,Nagpur,Books,Novel,4,390.0,10,1404.0,Net Banking,4.8
+ORD10340,2023-07-18,July,Q3,CUST1458,East,Patna,Electronics,Earbuds,1,2620.0,0,2620.0,Cash on Delivery,3.1
+ORD10569,2023-07-18,July,Q3,CUST1391,West,Surat,Clothing,Women's Kurta,1,1230.0,15,1045.5,UPI,4.9
+ORD10057,2023-07-19,July,Q3,CUST1112,West,Nagpur,Sports,Football,1,790.0,15,671.5,Cash on Delivery,3.9
+ORD10026,2023-07-19,July,Q3,CUST1338,East,Guwahati,Home & Kitchen,Air Fryer,1,5910.0,20,4728.0,Net Banking,3.3
+ORD10606,2023-07-20,July,Q3,CUST1170,South,Coimbatore,Sports,Badminton Racket,1,1480.0,10,1332.0,Credit Card,4.4
+ORD10796,2023-07-20,July,Q3,CUST1212,North,Jaipur,Electronics,Smartphone,1,19040.0,15,16184.0,Net Banking,4.5
+ORD10958,2023-07-20,July,Q3,CUST1347,East,Patna,Electronics,Tablet,1,21960.0,15,18666.0,Net Banking,5.0
+ORD10959,2023-07-20,July,Q3,CUST1358,West,Mumbai,Sports,Dumbbells Set,1,3400.0,5,3230.0,Debit Card,3.8
+ORD10685,2023-07-20,July,Q3,CUST1356,South,Hyderabad,Electronics,Smartphone,1,16940.0,0,16940.0,Credit Card,4.0
+ORD10269,2023-07-21,July,Q3,CUST1092,East,Kolkata,Sports,Yoga Mat,1,890.0,20,712.0,Debit Card,3.1
+ORD10230,2023-07-21,July,Q3,CUST1344,South,Chennai,Electronics,Smartphone,1,20600.0,15,17510.0,Debit Card,3.8
+ORD10620,2023-07-21,July,Q3,CUST1243,East,Guwahati,Books,Self Help,2,500.0,5,950.0,Credit Card,3.4
+ORD10698,2023-07-21,July,Q3,CUST1465,South,Kochi,Home & Kitchen,Water Bottle,1,470.0,0,470.0,Cash on Delivery,3.8
+ORD10573,2023-07-22,July,Q3,CUST1149,North,Amritsar,Books,Novel,1,380.0,5,361.0,Net Banking,3.8
+ORD10830,2023-07-22,July,Q3,CUST1443,East,Ranchi,Electronics,Smart Watch,1,9210.0,0,9210.0,Credit Card,4.4
+ORD10312,2023-07-23,July,Q3,CUST1275,East,Ranchi,Books,Self Help,1,540.0,20,432.0,Debit Card,3.3
+ORD10041,2023-07-24,July,Q3,CUST1204,East,Bhubaneswar,Electronics,Earbuds,1,2470.0,20,1976.0,Debit Card,3.7
+ORD10741,2023-07-25,July,Q3,CUST1139,South,Coimbatore,Electronics,Tablet,1,20320.0,10,18288.0,UPI,4.1
+ORD10782,2023-07-26,July,Q3,CUST1376,East,Patna,Electronics,Earbuds,1,2560.0,15,2176.0,Cash on Delivery,4.8
+ORD10985,2023-07-28,July,Q3,CUST1084,East,Kolkata,Electronics,Smartphone,1,19480.0,0,19480.0,Debit Card,3.1
+ORD10092,2023-07-28,July,Q3,CUST1255,North,Chandigarh,Electronics,Smart Watch,1,9660.0,5,9177.0,Cash on Delivery,4.0
+ORD10750,2023-07-28,July,Q3,CUST1477,East,Kolkata,Books,Python Basics,5,570.0,20,2280.0,UPI,4.0
+ORD10839,2023-07-28,July,Q3,CUST1126,South,Bengaluru,Home & Kitchen,Water Bottle,1,510.0,0,510.0,Debit Card,4.3
+ORD10978,2023-07-28,July,Q3,CUST1074,North,Jaipur,Electronics,Earbuds,1,2820.0,10,2538.0,Credit Card,3.5
+ORD10825,2023-07-29,July,Q3,CUST1078,North,Delhi,Home & Kitchen,Water Bottle,1,440.0,20,352.0,UPI,3.7
+ORD10081,2023-07-29,July,Q3,CUST1359,West,Nagpur,Books,Business Strategy,3,820.0,10,2214.0,Net Banking,3.1
+ORD10702,2023-07-29,July,Q3,CUST1102,East,Guwahati,Clothing,Jacket,5,3350.0,5,15912.5,Credit Card,4.7
+ORD10896,2023-07-30,July,Q3,CUST1380,West,Pune,Electronics,Laptop,1,53770.0,15,45704.5,UPI,3.8
+ORD10914,2023-07-30,July,Q3,CUST1128,East,Ranchi,Books,Data Science Handbook,5,860.0,5,4085.0,UPI,4.2
+ORD10294,2023-07-30,July,Q3,CUST1389,North,Jaipur,Clothing,Women's Kurta,3,1250.0,5,3562.5,Net Banking,4.0
+ORD10688,2023-07-30,July,Q3,CUST1227,East,Bhubaneswar,Books,Novel,5,370.0,20,1480.0,Net Banking,3.6
+ORD10746,2023-07-30,July,Q3,CUST1131,East,Kolkata,Clothing,Saree,3,2420.0,5,6897.0,Debit Card,3.5
+ORD10587,2023-07-31,July,Q3,CUST1044,South,Chennai,Sports,Cricket Bat,1,2040.0,20,1632.0,Net Banking,4.4
+ORD10570,2023-07-31,July,Q3,CUST1250,South,Chennai,Clothing,Men's T-Shirt,4,660.0,20,2112.0,Cash on Delivery,4.7
+ORD10576,2023-07-31,July,Q3,CUST1451,East,Guwahati,Electronics,Laptop,1,52700.0,5,50065.0,Net Banking,3.2
+ORD10515,2023-07-31,July,Q3,CUST1231,South,Bengaluru,Clothing,Women's Kurta,4,1260.0,20,4032.0,Cash on Delivery,4.4
+ORD10487,2023-07-31,July,Q3,CUST1127,East,Ranchi,Sports,Cricket Bat,1,2370.0,10,2133.0,Cash on Delivery,3.2
+ORD10109,2023-08-01,August,Q3,CUST1256,South,Chennai,Clothing,Jacket,3,3690.0,20,8856.0,Cash on Delivery,4.7
+ORD10936,2023-08-02,August,Q3,CUST1101,West,Ahmedabad,Books,Python Basics,2,570.0,5,1083.0,Net Banking,3.4
+ORD10238,2023-08-02,August,Q3,CUST1433,South,Kochi,Clothing,Jeans,1,1810.0,15,1538.5,Cash on Delivery,3.2
+ORD10869,2023-08-03,August,Q3,CUST1253,East,Patna,Electronics,Smart Watch,1,9510.0,0,9510.0,Credit Card,4.8
+ORD10367,2023-08-03,August,Q3,CUST1473,North,Lucknow,Clothing,Women's Kurta,5,1350.0,0,6750.0,UPI,4.1
+ORD10891,2023-08-03,August,Q3,CUST1290,West,Surat,Sports,Dumbbells Set,1,3440.0,0,3440.0,UPI,4.8
+ORD10133,2023-08-03,August,Q3,CUST1305,West,Ahmedabad,Clothing,Jeans,3,1860.0,20,4464.0,UPI,4.8
+ORD10265,2023-08-04,August,Q3,CUST1369,East,Guwahati,Electronics,Earbuds,1,2410.0,5,2289.5,Net Banking,4.2
+ORD10056,2023-08-04,August,Q3,CUST1482,West,Nagpur,Electronics,Tablet,1,21890.0,0,21890.0,Cash on Delivery,3.6
+ORD10066,2023-08-04,August,Q3,CUST1222,West,Mumbai,Books,Business Strategy,4,950.0,5,3610.0,Credit Card,4.5
+ORD10925,2023-08-05,August,Q3,CUST1388,West,Pune,Books,Data Science Handbook,4,870.0,0,3480.0,Cash on Delivery,4.2
+ORD10002,2023-08-05,August,Q3,CUST1013,North,Delhi,Electronics,Laptop,1,49820.0,20,39856.0,Debit Card,3.4
+ORD10365,2023-08-05,August,Q3,CUST1466,North,Lucknow,Clothing,Women's Kurta,3,1440.0,10,3888.0,UPI,3.2
+ORD10748,2023-08-05,August,Q3,CUST1337,North,Chandigarh,Clothing,Jeans,3,1770.0,10,4779.0,Debit Card,3.4
+ORD10624,2023-08-06,August,Q3,CUST1474,North,Amritsar,Books,Python Basics,3,650.0,15,1657.5,Debit Card,4.2
+ORD10439,2023-08-06,August,Q3,CUST1382,North,Chandigarh,Sports,Badminton Racket,1,1490.0,0,1490.0,Credit Card,3.0
+ORD10821,2023-08-06,August,Q3,CUST1243,West,Mumbai,Electronics,Smartphone,1,18110.0,5,17204.5,Credit Card,3.9
+ORD10721,2023-08-06,August,Q3,CUST1238,South,Coimbatore,Clothing,Saree,3,2320.0,0,6960.0,UPI,4.0
+ORD10699,2023-08-07,August,Q3,CUST1157,East,Guwahati,Home & Kitchen,Mixer Grinder,1,3110.0,10,2799.0,Net Banking,4.7
+ORD10673,2023-08-08,August,Q3,CUST1484,South,Chennai,Home & Kitchen,Air Fryer,1,5750.0,20,4600.0,Credit Card,4.8
+ORD10307,2023-08-08,August,Q3,CUST1307,East,Patna,Clothing,Jeans,2,2020.0,20,3232.0,Debit Card,4.4
+ORD10300,2023-08-08,August,Q3,CUST1047,South,Chennai,Home & Kitchen,Pressure Cooker,1,2010.0,10,1809.0,Cash on Delivery,3.5
+ORD10912,2023-08-08,August,Q3,CUST1205,North,Chandigarh,Clothing,Men's T-Shirt,2,690.0,0,1380.0,Cash on Delivery,3.0
+ORD10565,2023-08-09,August,Q3,CUST1094,South,Coimbatore,Clothing,Jeans,5,1740.0,0,8700.0,Cash on Delivery,4.7
+ORD10274,2023-08-09,August,Q3,CUST1285,North,Delhi,Electronics,Earbuds,1,2390.0,20,1912.0,Debit Card,4.4
+ORD10766,2023-08-09,August,Q3,CUST1092,South,Coimbatore,Clothing,Jeans,2,2050.0,15,3485.0,Net Banking,4.6
+ORD10551,2023-08-09,August,Q3,CUST1187,East,Ranchi,Electronics,Smartphone,1,19220.0,15,16337.0,Cash on Delivery,3.4
+ORD10857,2023-08-10,August,Q3,CUST1122,North,Amritsar,Home & Kitchen,Bedsheet Set,1,1060.0,15,901.0,Cash on Delivery,4.7
+ORD10548,2023-08-10,August,Q3,CUST1381,East,Guwahati,Clothing,Women's Kurta,4,1280.0,20,4096.0,UPI,4.1
+ORD10637,2023-08-10,August,Q3,CUST1335,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,1,1210.0,10,1089.0,Debit Card,3.8
+ORD10085,2023-08-10,August,Q3,CUST1300,East,Ranchi,Home & Kitchen,Mixer Grinder,1,2950.0,20,2360.0,UPI,5.0
+ORD10420,2023-08-10,August,Q3,CUST1198,West,Nagpur,Clothing,Jacket,2,3110.0,0,6220.0,Debit Card,4.2
+ORD10356,2023-08-11,August,Q3,CUST1209,South,Bengaluru,Electronics,Earbuds,1,2380.0,5,2261.0,Debit Card,4.4
+ORD10977,2023-08-11,August,Q3,CUST1272,West,Mumbai,Sports,Yoga Mat,1,780.0,0,780.0,UPI,4.4
+ORD10745,2023-08-11,August,Q3,CUST1382,North,Amritsar,Clothing,Jeans,2,1930.0,5,3667.0,Cash on Delivery,4.7
+ORD10740,2023-08-12,August,Q3,CUST1024,South,Kochi,Electronics,Tablet,1,20980.0,10,18882.0,Cash on Delivery,5.0
+ORD10669,2023-08-12,August,Q3,CUST1069,South,Chennai,Sports,Badminton Racket,1,1320.0,10,1188.0,Net Banking,4.4
+ORD10172,2023-08-12,August,Q3,CUST1188,West,Surat,Books,Business Strategy,4,1030.0,15,3502.0,Debit Card,3.5
+ORD10044,2023-08-12,August,Q3,CUST1485,North,Amritsar,Sports,Yoga Mat,1,840.0,0,840.0,Cash on Delivery,4.2
+ORD10091,2023-08-13,August,Q3,CUST1159,West,Mumbai,Electronics,Tablet,1,24200.0,5,22990.0,Debit Card,3.0
+ORD10527,2023-08-13,August,Q3,CUST1165,East,Ranchi,Books,Python Basics,5,620.0,10,2790.0,Net Banking,3.6
+ORD10906,2023-08-13,August,Q3,CUST1310,South,Kochi,Home & Kitchen,Pressure Cooker,1,1700.0,0,1700.0,UPI,3.4
+ORD10652,2023-08-13,August,Q3,CUST1122,South,Chennai,Electronics,Laptop,1,47130.0,20,37704.0,Net Banking,3.8
+ORD10823,2023-08-14,August,Q3,CUST1066,West,Surat,Clothing,Women's Kurta,4,1330.0,15,4522.0,Debit Card,4.7
+ORD10290,2023-08-14,August,Q3,CUST1230,South,Kochi,Electronics,Laptop,1,50670.0,0,50670.0,Cash on Delivery,3.7
+ORD10036,2023-08-15,August,Q3,CUST1279,West,Nagpur,Electronics,Smartphone,1,16540.0,5,15713.0,UPI,4.7
+ORD10520,2023-08-15,August,Q3,CUST1340,South,Bengaluru,Clothing,Saree,1,2710.0,20,2168.0,Credit Card,3.9
+ORD10306,2023-08-15,August,Q3,CUST1373,South,Bengaluru,Electronics,Laptop,1,56580.0,20,45264.0,Net Banking,3.7
+ORD10972,2023-08-16,August,Q3,CUST1275,South,Coimbatore,Books,Business Strategy,3,930.0,20,2232.0,Debit Card,3.4
+ORD10123,2023-08-16,August,Q3,CUST1140,North,Delhi,Home & Kitchen,Water Bottle,1,420.0,5,399.0,Debit Card,4.3
+ORD10580,2023-08-17,August,Q3,CUST1318,East,Patna,Electronics,Laptop,1,59290.0,0,59290.0,Cash on Delivery,3.0
+ORD10156,2023-08-18,August,Q3,CUST1188,South,Coimbatore,Clothing,Jeans,4,2170.0,5,8246.0,Debit Card,5.0
+ORD10636,2023-08-18,August,Q3,CUST1326,West,Ahmedabad,Sports,Cricket Bat,1,2030.0,20,1624.0,Cash on Delivery,4.9
+ORD10890,2023-08-19,August,Q3,CUST1255,North,Jaipur,Clothing,Jacket,3,3690.0,0,11070.0,Cash on Delivery,3.7
+ORD10450,2023-08-19,August,Q3,CUST1186,East,Ranchi,Home & Kitchen,Water Bottle,1,420.0,20,336.0,Cash on Delivery,4.9
+ORD10419,2023-08-19,August,Q3,CUST1271,West,Nagpur,Sports,Yoga Mat,1,970.0,0,970.0,UPI,4.1
+ORD10780,2023-08-20,August,Q3,CUST1408,East,Ranchi,Clothing,Women's Kurta,3,1450.0,10,3915.0,UPI,4.5
+ORD10060,2023-08-21,August,Q3,CUST1427,East,Bhubaneswar,Books,Business Strategy,4,980.0,10,3528.0,UPI,3.9
+ORD10014,2023-08-21,August,Q3,CUST1445,North,Jaipur,Sports,Yoga Mat,1,870.0,0,870.0,Cash on Delivery,4.7
+ORD10765,2023-08-21,August,Q3,CUST1382,West,Mumbai,Clothing,Women's Kurta,3,1230.0,10,3321.0,Net Banking,3.8
+ORD10666,2023-08-21,August,Q3,CUST1248,North,Delhi,Electronics,Tablet,1,20770.0,0,20770.0,Debit Card,3.2
+ORD10222,2023-08-21,August,Q3,CUST1390,East,Guwahati,Sports,Badminton Racket,1,1530.0,5,1453.5,Credit Card,4.4
+ORD10582,2023-08-21,August,Q3,CUST1451,West,Surat,Electronics,Tablet,1,23100.0,5,21945.0,Debit Card,3.6
+ORD10105,2023-08-22,August,Q3,CUST1183,East,Patna,Books,Self Help,4,460.0,20,1472.0,Debit Card,3.6
+ORD10955,2023-08-22,August,Q3,CUST1306,South,Coimbatore,Home & Kitchen,Pressure Cooker,1,1960.0,0,1960.0,Cash on Delivery,3.6
+ORD10282,2023-08-23,August,Q3,CUST1198,North,Jaipur,Books,Novel,3,400.0,20,960.0,Debit Card,3.8
+ORD10901,2023-08-23,August,Q3,CUST1122,West,Pune,Sports,Cricket Bat,1,2200.0,0,2200.0,Credit Card,3.5
+ORD10829,2023-08-24,August,Q3,CUST1209,West,Surat,Clothing,Jeans,5,1750.0,20,7000.0,Net Banking,3.5
+ORD10270,2023-08-25,August,Q3,CUST1344,South,Kochi,Home & Kitchen,Mixer Grinder,1,3540.0,15,3009.0,Net Banking,3.3
+ORD10157,2023-08-25,August,Q3,CUST1418,East,Guwahati,Sports,Football,1,700.0,5,665.0,Credit Card,4.6
+ORD10785,2023-08-26,August,Q3,CUST1148,South,Chennai,Books,Novel,5,370.0,0,1850.0,Net Banking,3.9
+ORD10671,2023-08-27,August,Q3,CUST1080,West,Surat,Clothing,Jeans,3,1810.0,20,4344.0,Debit Card,4.8
+ORD10330,2023-08-27,August,Q3,CUST1231,East,Guwahati,Electronics,Tablet,1,21770.0,5,20681.5,Cash on Delivery,3.9
+ORD10104,2023-08-27,August,Q3,CUST1153,East,Ranchi,Clothing,Men's T-Shirt,3,710.0,20,1704.0,Net Banking,4.4
+ORD10183,2023-08-28,August,Q3,CUST1269,South,Coimbatore,Electronics,Smartphone,1,17590.0,15,14951.5,Net Banking,4.5
+ORD10084,2023-08-28,August,Q3,CUST1041,East,Guwahati,Home & Kitchen,Water Bottle,1,470.0,15,399.5,Debit Card,3.1
+ORD10923,2023-08-28,August,Q3,CUST1155,East,Patna,Clothing,Women's Kurta,5,1310.0,5,6222.5,Cash on Delivery,4.2
+ORD10716,2023-08-29,August,Q3,CUST1386,North,Jaipur,Electronics,Smartphone,1,17560.0,0,17560.0,UPI,4.6
+ORD10167,2023-08-29,August,Q3,CUST1403,North,Lucknow,Home & Kitchen,Bedsheet Set,1,1200.0,10,1080.0,UPI,3.7
+ORD10800,2023-08-29,August,Q3,CUST1436,East,Guwahati,Clothing,Jacket,3,3150.0,20,7560.0,Net Banking,3.3
+ORD10768,2023-08-29,August,Q3,CUST1131,South,Hyderabad,Books,Python Basics,4,650.0,20,2080.0,UPI,3.2
+ORD10519,2023-08-29,August,Q3,CUST1498,South,Chennai,Home & Kitchen,Air Fryer,1,6090.0,0,6090.0,Credit Card,3.8
+ORD10076,2023-08-29,August,Q3,CUST1481,West,Surat,Home & Kitchen,Pressure Cooker,1,2050.0,10,1845.0,Net Banking,3.2
+ORD10243,2023-08-29,August,Q3,CUST1442,East,Patna,Home & Kitchen,Bedsheet Set,1,1100.0,20,880.0,Credit Card,4.5
+ORD10311,2023-08-30,August,Q3,CUST1020,North,Delhi,Sports,Cricket Bat,1,1990.0,5,1890.5,UPI,4.9
+ORD10228,2023-08-30,August,Q3,CUST1456,North,Jaipur,Books,Python Basics,4,650.0,10,2340.0,Net Banking,3.9
+ORD10341,2023-08-30,August,Q3,CUST1273,East,Ranchi,Clothing,Women's Kurta,2,1200.0,10,2160.0,UPI,4.5
+ORD10212,2023-08-30,August,Q3,CUST1208,North,Chandigarh,Electronics,Tablet,1,25180.0,5,23921.0,Net Banking,4.0
+ORD10941,2023-08-31,August,Q3,CUST1418,East,Ranchi,Books,Business Strategy,3,890.0,10,2403.0,Credit Card,4.9
+ORD10506,2023-08-31,August,Q3,CUST1134,North,Delhi,Books,Novel,1,380.0,0,380.0,Debit Card,3.3
+ORD10376,2023-08-31,August,Q3,CUST1014,East,Bhubaneswar,Clothing,Jeans,1,2060.0,10,1854.0,Net Banking,3.1
+ORD10946,2023-09-01,September,Q3,CUST1445,North,Lucknow,Home & Kitchen,Water Bottle,1,430.0,5,408.5,Debit Card,4.8
+ORD10724,2023-09-01,September,Q3,CUST1224,East,Patna,Electronics,Smart Watch,1,9080.0,15,7718.0,Debit Card,4.3
+ORD10053,2023-09-01,September,Q3,CUST1320,West,Ahmedabad,Clothing,Jeans,5,2070.0,15,8797.5,Credit Card,3.5
+ORD10786,2023-09-02,September,Q3,CUST1151,East,Patna,Clothing,Jeans,5,2110.0,15,8967.5,Debit Card,3.1
+ORD10675,2023-09-03,September,Q3,CUST1486,North,Lucknow,Books,Python Basics,1,550.0,15,467.5,Credit Card,3.3
+ORD10210,2023-09-03,September,Q3,CUST1070,South,Chennai,Sports,Dumbbells Set,1,3970.0,10,3573.0,UPI,4.2
+ORD10948,2023-09-04,September,Q3,CUST1222,South,Chennai,Clothing,Women's Kurta,1,1410.0,0,1410.0,UPI,3.3
+ORD10381,2023-09-04,September,Q3,CUST1335,North,Jaipur,Home & Kitchen,Bedsheet Set,1,1230.0,10,1107.0,Cash on Delivery,3.4
+ORD10401,2023-09-04,September,Q3,CUST1427,East,Patna,Electronics,Smartphone,1,19220.0,0,19220.0,Debit Card,4.3
+ORD10599,2023-09-05,September,Q3,CUST1158,South,Chennai,Home & Kitchen,Air Fryer,1,5960.0,20,4768.0,Cash on Delivery,3.3
+ORD10276,2023-09-05,September,Q3,CUST1159,North,Jaipur,Books,Data Science Handbook,2,740.0,10,1332.0,Cash on Delivery,3.9
+ORD10961,2023-09-05,September,Q3,CUST1185,East,Patna,Clothing,Women's Kurta,2,1430.0,0,2860.0,Debit Card,3.2
+ORD10021,2023-09-06,September,Q3,CUST1413,South,Coimbatore,Clothing,Jacket,2,3440.0,15,5848.0,Net Banking,3.4
+ORD10153,2023-09-06,September,Q3,CUST1394,South,Chennai,Clothing,Women's Kurta,1,1190.0,20,952.0,Debit Card,4.7
+ORD10992,2023-09-07,September,Q3,CUST1181,North,Jaipur,Electronics,Tablet,1,22330.0,10,20097.0,UPI,3.0
+ORD10502,2023-09-07,September,Q3,CUST1327,West,Mumbai,Books,Novel,2,340.0,5,646.0,Cash on Delivery,3.8
+ORD10408,2023-09-07,September,Q3,CUST1360,North,Lucknow,Books,Data Science Handbook,3,730.0,0,2190.0,Debit Card,4.5
+ORD10100,2023-09-07,September,Q3,CUST1116,North,Amritsar,Electronics,Laptop,1,55010.0,10,49509.0,UPI,3.9
+ORD10449,2023-09-07,September,Q3,CUST1460,East,Bhubaneswar,Clothing,Women's Kurta,5,1200.0,0,6000.0,Credit Card,3.6
+ORD10560,2023-09-08,September,Q3,CUST1320,West,Pune,Electronics,Earbuds,1,2680.0,10,2412.0,Cash on Delivery,3.5
+ORD10964,2023-09-08,September,Q3,CUST1442,East,Ranchi,Clothing,Saree,1,2730.0,15,2320.5,Net Banking,3.6
+ORD10016,2023-09-08,September,Q3,CUST1449,North,Delhi,Home & Kitchen,Bedsheet Set,1,1060.0,5,1007.0,Debit Card,4.9
+ORD10980,2023-09-08,September,Q3,CUST1138,North,Amritsar,Home & Kitchen,Water Bottle,1,500.0,20,400.0,Debit Card,3.2
+ORD10516,2023-09-09,September,Q3,CUST1011,South,Hyderabad,Electronics,Laptop,1,47450.0,20,37960.0,Credit Card,4.9
+ORD10950,2023-09-09,September,Q3,CUST1329,North,Jaipur,Clothing,Jacket,5,3600.0,0,18000.0,Cash on Delivery,3.8
+ORD10180,2023-09-09,September,Q3,CUST1414,South,Bengaluru,Clothing,Men's T-Shirt,4,710.0,0,2840.0,Cash on Delivery,4.3
+ORD10733,2023-09-09,September,Q3,CUST1134,West,Surat,Sports,Yoga Mat,1,870.0,15,739.5,Net Banking,4.2
+ORD10758,2023-09-09,September,Q3,CUST1422,West,Surat,Home & Kitchen,Air Fryer,1,6160.0,0,6160.0,Credit Card,4.4
+ORD10803,2023-09-10,September,Q3,CUST1451,East,Patna,Clothing,Jacket,1,3010.0,10,2709.0,Cash on Delivery,3.7
+ORD10324,2023-09-10,September,Q3,CUST1119,South,Coimbatore,Clothing,Women's Kurta,4,1170.0,0,4680.0,Debit Card,3.7
+ORD10851,2023-09-10,September,Q3,CUST1089,South,Coimbatore,Clothing,Jacket,5,3520.0,20,14080.0,UPI,4.2
+ORD10775,2023-09-11,September,Q3,CUST1057,North,Lucknow,Home & Kitchen,Water Bottle,1,460.0,15,391.0,Credit Card,3.2
+ORD10722,2023-09-11,September,Q3,CUST1059,East,Bhubaneswar,Sports,Cricket Bat,1,2030.0,15,1725.5,Net Banking,3.6
+ORD10880,2023-09-11,September,Q3,CUST1332,West,Ahmedabad,Sports,Badminton Racket,1,1480.0,20,1184.0,UPI,3.4
+ORD10289,2023-09-11,September,Q3,CUST1277,North,Amritsar,Electronics,Earbuds,1,2730.0,10,2457.0,UPI,4.5
+ORD10581,2023-09-12,September,Q3,CUST1111,West,Nagpur,Electronics,Tablet,1,24650.0,5,23417.5,Debit Card,4.3
+ORD10350,2023-09-12,September,Q3,CUST1085,South,Hyderabad,Electronics,Laptop,1,51310.0,10,46179.0,UPI,4.6
+ORD10647,2023-09-12,September,Q3,CUST1463,South,Bengaluru,Electronics,Smart Watch,1,8220.0,10,7398.0,Net Banking,4.1
+ORD10729,2023-09-13,September,Q3,CUST1318,North,Chandigarh,Books,Novel,2,370.0,10,666.0,Debit Card,3.2
+ORD10498,2023-09-13,September,Q3,CUST1128,South,Coimbatore,Sports,Dumbbells Set,1,3840.0,10,3456.0,Debit Card,4.7
+ORD10456,2023-09-14,September,Q3,CUST1434,North,Lucknow,Home & Kitchen,Water Bottle,1,410.0,5,389.5,Debit Card,4.4
+ORD10561,2023-09-14,September,Q3,CUST1483,East,Kolkata,Home & Kitchen,Air Fryer,1,6170.0,0,6170.0,Debit Card,4.9
+ORD10028,2023-09-15,September,Q3,CUST1304,South,Bengaluru,Sports,Cricket Bat,1,2450.0,0,2450.0,UPI,4.4
+ORD10393,2023-09-15,September,Q3,CUST1233,East,Patna,Electronics,Smartphone,1,17540.0,10,15786.0,Debit Card,4.2
+ORD10771,2023-09-15,September,Q3,CUST1072,West,Ahmedabad,Books,Python Basics,5,550.0,15,2337.5,Cash on Delivery,3.2
+ORD10984,2023-09-15,September,Q3,CUST1325,East,Bhubaneswar,Books,Novel,2,400.0,10,720.0,UPI,4.9
+ORD10547,2023-09-15,September,Q3,CUST1294,South,Chennai,Electronics,Smart Watch,1,9710.0,20,7768.0,Debit Card,3.2
+ORD10770,2023-09-16,September,Q3,CUST1297,West,Ahmedabad,Books,Business Strategy,5,840.0,0,4200.0,Credit Card,3.5
+ORD10720,2023-09-16,September,Q3,CUST1092,West,Ahmedabad,Sports,Yoga Mat,1,860.0,0,860.0,Cash on Delivery,5.0
+ORD10903,2023-09-16,September,Q3,CUST1236,East,Guwahati,Books,Python Basics,5,580.0,0,2900.0,UPI,3.1
+ORD10375,2023-09-16,September,Q3,CUST1228,West,Mumbai,Electronics,Laptop,1,51640.0,20,41312.0,Credit Card,4.9
+ORD10248,2023-09-16,September,Q3,CUST1467,West,Ahmedabad,Electronics,Tablet,1,23310.0,20,18648.0,Net Banking,4.3
+ORD10224,2023-09-16,September,Q3,CUST1226,South,Coimbatore,Sports,Yoga Mat,1,800.0,20,640.0,UPI,4.4
+ORD10838,2023-09-16,September,Q3,CUST1208,West,Mumbai,Home & Kitchen,Mixer Grinder,1,3130.0,20,2504.0,UPI,4.0
+ORD10947,2023-09-16,September,Q3,CUST1086,North,Chandigarh,Books,Data Science Handbook,5,780.0,15,3315.0,Net Banking,4.9
+ORD10015,2023-09-17,September,Q3,CUST1470,South,Chennai,Home & Kitchen,Pressure Cooker,1,1860.0,20,1488.0,UPI,4.2
+ORD10454,2023-09-17,September,Q3,CUST1464,North,Amritsar,Sports,Badminton Racket,1,1530.0,5,1453.5,UPI,4.1
+ORD10201,2023-09-17,September,Q3,CUST1169,West,Nagpur,Home & Kitchen,Air Fryer,1,6070.0,10,5463.0,UPI,5.0
+ORD10146,2023-09-17,September,Q3,CUST1230,West,Surat,Sports,Football,1,800.0,0,800.0,Debit Card,4.3
+ORD10759,2023-09-17,September,Q3,CUST1232,North,Jaipur,Books,Novel,5,380.0,10,1710.0,UPI,4.5
+ORD10182,2023-09-18,September,Q3,CUST1184,South,Bengaluru,Clothing,Women's Kurta,4,1250.0,0,5000.0,Debit Card,4.1
+ORD10878,2023-09-18,September,Q3,CUST1033,West,Pune,Electronics,Smart Watch,1,9330.0,20,7464.0,Credit Card,4.0
+ORD10578,2023-09-19,September,Q3,CUST1467,South,Kochi,Sports,Badminton Racket,1,1280.0,5,1216.0,Cash on Delivery,4.1
+ORD10843,2023-09-19,September,Q3,CUST1202,East,Kolkata,Clothing,Jacket,3,3430.0,0,10290.0,UPI,4.7
+ORD10492,2023-09-19,September,Q3,CUST1244,East,Guwahati,Clothing,Jacket,5,3070.0,15,13047.5,Debit Card,3.1
+ORD10428,2023-09-19,September,Q3,CUST1027,East,Kolkata,Books,Self Help,3,500.0,20,1200.0,UPI,4.5
+ORD10542,2023-09-19,September,Q3,CUST1135,South,Bengaluru,Electronics,Smart Watch,1,8410.0,5,7989.5,Cash on Delivery,4.8
+ORD10318,2023-09-19,September,Q3,CUST1395,East,Kolkata,Books,Novel,2,330.0,10,594.0,UPI,4.8
+ORD10628,2023-09-20,September,Q3,CUST1148,West,Nagpur,Home & Kitchen,Air Fryer,1,5440.0,10,4896.0,Credit Card,3.1
+ORD10262,2023-09-20,September,Q3,CUST1305,West,Mumbai,Electronics,Smartphone,1,17790.0,0,17790.0,Debit Card,4.6
+ORD10888,2023-09-20,September,Q3,CUST1119,South,Kochi,Clothing,Women's Kurta,2,1400.0,15,2380.0,Debit Card,4.2
+ORD10911,2023-09-20,September,Q3,CUST1106,North,Jaipur,Home & Kitchen,Water Bottle,1,480.0,20,384.0,Debit Card,3.8
+ORD10447,2023-09-20,September,Q3,CUST1058,South,Chennai,Clothing,Women's Kurta,3,1370.0,5,3904.5,Credit Card,4.3
+ORD10806,2023-09-21,September,Q3,CUST1400,North,Delhi,Books,Self Help,1,570.0,0,570.0,Debit Card,4.2
+ORD10963,2023-09-21,September,Q3,CUST1017,East,Ranchi,Books,Python Basics,4,630.0,5,2394.0,UPI,3.5
+ORD10194,2023-09-21,September,Q3,CUST1258,West,Surat,Home & Kitchen,Air Fryer,1,4980.0,15,4233.0,Net Banking,4.9
+ORD10457,2023-09-21,September,Q3,CUST1376,South,Kochi,Clothing,Women's Kurta,5,1350.0,5,6412.5,Net Banking,4.9
+ORD10648,2023-09-21,September,Q3,CUST1115,West,Surat,Books,Self Help,1,550.0,20,440.0,UPI,3.8
+ORD10070,2023-09-22,September,Q3,CUST1330,South,Bengaluru,Clothing,Saree,2,2550.0,15,4335.0,Net Banking,3.9
+ORD10382,2023-09-22,September,Q3,CUST1369,South,Bengaluru,Sports,Badminton Racket,1,1490.0,5,1415.5,UPI,4.3
+ORD10019,2023-09-22,September,Q3,CUST1283,West,Mumbai,Clothing,Women's Kurta,1,1190.0,20,952.0,Credit Card,4.2
+ORD10480,2023-09-23,September,Q3,CUST1314,East,Patna,Electronics,Tablet,1,22610.0,5,21479.5,Credit Card,4.3
+ORD10090,2023-09-23,September,Q3,CUST1281,East,Ranchi,Books,Self Help,2,540.0,10,972.0,Credit Card,4.9
+ORD10479,2023-09-24,September,Q3,CUST1005,East,Ranchi,Electronics,Laptop,1,55120.0,15,46852.0,Credit Card,4.7
+ORD10327,2023-09-24,September,Q3,CUST1326,West,Ahmedabad,Books,Data Science Handbook,5,840.0,5,3990.0,Net Banking,3.1
+ORD10820,2023-09-24,September,Q3,CUST1232,South,Bengaluru,Home & Kitchen,Water Bottle,1,470.0,10,423.0,UPI,3.3
+ORD10316,2023-09-25,September,Q3,CUST1375,East,Patna,Home & Kitchen,Pressure Cooker,1,1960.0,10,1764.0,UPI,4.5
+ORD10079,2023-09-25,September,Q3,CUST1291,West,Surat,Books,Business Strategy,4,1000.0,10,3600.0,Debit Card,3.1
+ORD10074,2023-09-26,September,Q3,CUST1007,East,Kolkata,Clothing,Jeans,2,1820.0,10,3276.0,Debit Card,3.3
+ORD10154,2023-09-27,September,Q3,CUST1083,North,Jaipur,Sports,Yoga Mat,1,890.0,5,845.5,Credit Card,4.7
+ORD10251,2023-09-27,September,Q3,CUST1235,East,Bhubaneswar,Home & Kitchen,Air Fryer,1,5060.0,15,4301.0,Debit Card,3.5
+ORD10018,2023-09-28,September,Q3,CUST1343,West,Pune,Sports,Yoga Mat,1,920.0,15,782.0,Cash on Delivery,3.9
+ORD10968,2023-09-29,September,Q3,CUST1385,West,Mumbai,Sports,Football,1,720.0,0,720.0,Credit Card,4.9
+ORD10142,2023-09-29,September,Q3,CUST1131,South,Hyderabad,Home & Kitchen,Pressure Cooker,1,1730.0,5,1643.5,Credit Card,3.3
+ORD10742,2023-09-29,September,Q3,CUST1411,West,Surat,Clothing,Jeans,3,2090.0,20,5016.0,Cash on Delivery,3.9
+ORD10392,2023-09-29,September,Q3,CUST1159,South,Bengaluru,Electronics,Laptop,1,49740.0,10,44766.0,Credit Card,3.2
+ORD10684,2023-09-30,September,Q3,CUST1096,East,Guwahati,Sports,Dumbbells Set,1,3850.0,0,3850.0,Net Banking,3.2
+ORD10855,2023-09-30,September,Q3,CUST1450,West,Ahmedabad,Electronics,Smart Watch,1,8060.0,0,8060.0,Debit Card,4.6
+ORD10635,2023-09-30,September,Q3,CUST1006,South,Kochi,Books,Self Help,5,480.0,15,2040.0,Cash on Delivery,4.9
+ORD10272,2023-10-01,October,Q4,CUST1304,West,Nagpur,Electronics,Earbuds,1,2690.0,20,2152.0,UPI,3.2
+ORD10442,2023-10-01,October,Q4,CUST1183,North,Amritsar,Electronics,Tablet,1,20050.0,0,20050.0,Debit Card,3.2
+ORD10510,2023-10-01,October,Q4,CUST1157,East,Bhubaneswar,Books,Novel,1,330.0,15,280.5,Cash on Delivery,3.8
+ORD10425,2023-10-01,October,Q4,CUST1074,East,Guwahati,Electronics,Tablet,1,20390.0,15,17331.5,UPI,4.3
+ORD10594,2023-10-02,October,Q4,CUST1371,East,Guwahati,Books,Data Science Handbook,3,890.0,20,2136.0,Cash on Delivery,4.1
+ORD10474,2023-10-02,October,Q4,CUST1386,West,Nagpur,Home & Kitchen,Water Bottle,1,440.0,15,374.0,Credit Card,3.8
+ORD10847,2023-10-03,October,Q4,CUST1344,North,Delhi,Sports,Cricket Bat,1,2470.0,15,2099.5,UPI,3.7
+ORD10237,2023-10-03,October,Q4,CUST1468,West,Pune,Clothing,Jeans,2,2120.0,15,3604.0,UPI,4.1
+ORD10817,2023-10-04,October,Q4,CUST1374,East,Patna,Home & Kitchen,Air Fryer,1,6310.0,0,6310.0,UPI,4.7
+ORD10731,2023-10-04,October,Q4,CUST1226,North,Delhi,Books,Data Science Handbook,3,800.0,15,2040.0,Net Banking,3.1
+ORD10357,2023-10-04,October,Q4,CUST1292,East,Bhubaneswar,Home & Kitchen,Pressure Cooker,1,1660.0,15,1411.0,Debit Card,4.7
+ORD10653,2023-10-04,October,Q4,CUST1018,East,Guwahati,Sports,Badminton Racket,1,1600.0,0,1600.0,Cash on Delivery,3.1
+ORD10061,2023-10-04,October,Q4,CUST1486,North,Jaipur,Clothing,Men's T-Shirt,1,770.0,0,770.0,Credit Card,3.4
+ORD10743,2023-10-04,October,Q4,CUST1343,East,Patna,Books,Self Help,5,480.0,15,2040.0,Debit Card,3.4
+ORD10605,2023-10-04,October,Q4,CUST1196,West,Mumbai,Clothing,Men's T-Shirt,1,710.0,0,710.0,UPI,3.2
+ORD10491,2023-10-05,October,Q4,CUST1444,North,Lucknow,Home & Kitchen,Water Bottle,1,440.0,20,352.0,Cash on Delivery,4.0
+ORD10427,2023-10-05,October,Q4,CUST1380,North,Jaipur,Books,Data Science Handbook,5,840.0,5,3990.0,Debit Card,3.8
+ORD10455,2023-10-06,October,Q4,CUST1375,West,Pune,Home & Kitchen,Air Fryer,1,5260.0,20,4208.0,Cash on Delivery,3.3
+ORD10216,2023-10-06,October,Q4,CUST1169,West,Pune,Sports,Badminton Racket,1,1360.0,0,1360.0,Credit Card,4.5
+ORD10339,2023-10-06,October,Q4,CUST1176,North,Lucknow,Home & Kitchen,Air Fryer,1,5700.0,15,4845.0,Debit Card,4.0
+ORD10781,2023-10-08,October,Q4,CUST1010,West,Mumbai,Books,Business Strategy,4,850.0,0,3400.0,Credit Card,3.3
+ORD10124,2023-10-08,October,Q4,CUST1309,East,Guwahati,Sports,Football,1,680.0,20,544.0,Net Banking,3.2
+ORD10513,2023-10-08,October,Q4,CUST1366,East,Patna,Books,Novel,2,350.0,5,665.0,Net Banking,4.7
+ORD10163,2023-10-08,October,Q4,CUST1122,West,Mumbai,Home & Kitchen,Pressure Cooker,1,1760.0,0,1760.0,Net Banking,4.3
+ORD10539,2023-10-09,October,Q4,CUST1123,East,Bhubaneswar,Books,Self Help,3,550.0,20,1320.0,Debit Card,4.1
+ORD10338,2023-10-09,October,Q4,CUST1102,West,Mumbai,Electronics,Earbuds,1,2490.0,15,2116.5,Debit Card,3.5
+ORD10279,2023-10-10,October,Q4,CUST1408,South,Hyderabad,Sports,Badminton Racket,1,1600.0,5,1520.0,Net Banking,4.3
+ORD10889,2023-10-10,October,Q4,CUST1219,West,Surat,Home & Kitchen,Mixer Grinder,1,3130.0,5,2973.5,Net Banking,3.4
+ORD10187,2023-10-10,October,Q4,CUST1328,East,Patna,Home & Kitchen,Water Bottle,1,470.0,20,376.0,Credit Card,4.2
+ORD10185,2023-10-10,October,Q4,CUST1265,South,Chennai,Books,Novel,1,390.0,0,390.0,Credit Card,3.6
+ORD10423,2023-10-11,October,Q4,CUST1363,South,Chennai,Clothing,Jacket,3,3560.0,5,10146.0,Credit Card,4.0
+ORD10894,2023-10-11,October,Q4,CUST1035,South,Bengaluru,Sports,Badminton Racket,1,1270.0,5,1206.5,Net Banking,3.6
+ORD10034,2023-10-11,October,Q4,CUST1104,South,Hyderabad,Home & Kitchen,Water Bottle,1,430.0,10,387.0,Cash on Delivery,4.0
+ORD10013,2023-10-11,October,Q4,CUST1057,North,Delhi,Sports,Dumbbells Set,1,3820.0,10,3438.0,Cash on Delivery,3.9
+ORD10614,2023-10-12,October,Q4,CUST1055,North,Lucknow,Clothing,Jeans,1,2160.0,20,1728.0,Debit Card,4.5
+ORD10333,2023-10-12,October,Q4,CUST1006,South,Bengaluru,Books,Data Science Handbook,2,880.0,0,1760.0,UPI,4.7
+ORD10366,2023-10-12,October,Q4,CUST1402,West,Nagpur,Home & Kitchen,Bedsheet Set,1,1130.0,0,1130.0,Debit Card,4.2
+ORD10130,2023-10-12,October,Q4,CUST1432,East,Kolkata,Home & Kitchen,Water Bottle,1,430.0,15,365.5,Debit Card,4.9
+ORD10844,2023-10-12,October,Q4,CUST1325,East,Guwahati,Clothing,Jacket,3,3390.0,10,9153.0,Cash on Delivery,5.0
+ORD10763,2023-10-13,October,Q4,CUST1205,South,Bengaluru,Books,Python Basics,2,580.0,0,1160.0,Debit Card,3.9
+ORD10526,2023-10-13,October,Q4,CUST1128,East,Guwahati,Clothing,Men's T-Shirt,3,750.0,5,2137.5,UPI,4.0
+ORD10475,2023-10-13,October,Q4,CUST1157,West,Pune,Home & Kitchen,Water Bottle,1,470.0,10,423.0,Debit Card,3.7
+ORD10240,2023-10-14,October,Q4,CUST1479,South,Kochi,Clothing,Jeans,1,1850.0,5,1757.5,Credit Card,4.9
+ORD10867,2023-10-14,October,Q4,CUST1402,North,Lucknow,Home & Kitchen,Pressure Cooker,1,2060.0,5,1957.0,UPI,3.7
+ORD10128,2023-10-15,October,Q4,CUST1495,East,Kolkata,Books,Business Strategy,4,1010.0,0,4040.0,Cash on Delivery,4.2
+ORD10681,2023-10-15,October,Q4,CUST1377,South,Chennai,Home & Kitchen,Pressure Cooker,1,1860.0,15,1581.0,Debit Card,4.7
+ORD10435,2023-10-15,October,Q4,CUST1470,North,Delhi,Home & Kitchen,Air Fryer,1,5280.0,20,4224.0,Debit Card,3.5
+ORD10197,2023-10-15,October,Q4,CUST1230,South,Hyderabad,Sports,Dumbbells Set,1,3210.0,20,2568.0,Debit Card,3.6
+ORD10348,2023-10-15,October,Q4,CUST1065,East,Patna,Sports,Yoga Mat,1,850.0,10,765.0,Credit Card,4.5
+ORD10113,2023-10-15,October,Q4,CUST1332,East,Ranchi,Clothing,Men's T-Shirt,4,740.0,10,2664.0,Net Banking,3.2
+ORD10011,2023-10-15,October,Q4,CUST1260,East,Ranchi,Books,Novel,2,350.0,5,665.0,Net Banking,3.2
+ORD10784,2023-10-16,October,Q4,CUST1047,West,Mumbai,Books,Business Strategy,4,950.0,15,3230.0,UPI,4.0
+ORD10255,2023-10-16,October,Q4,CUST1073,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,3650.0,20,2920.0,Net Banking,4.9
+ORD10226,2023-10-16,October,Q4,CUST1418,North,Amritsar,Books,Business Strategy,4,970.0,10,3492.0,UPI,4.5
+ORD10706,2023-10-17,October,Q4,CUST1432,West,Ahmedabad,Books,Data Science Handbook,5,790.0,0,3950.0,Cash on Delivery,3.3
+ORD10065,2023-10-17,October,Q4,CUST1259,North,Jaipur,Sports,Badminton Racket,1,1490.0,0,1490.0,Cash on Delivery,3.0
+ORD10328,2023-10-18,October,Q4,CUST1358,North,Lucknow,Clothing,Women's Kurta,3,1260.0,15,3213.0,Cash on Delivery,3.6
+ORD10448,2023-10-18,October,Q4,CUST1050,North,Amritsar,Books,Novel,1,320.0,10,288.0,Credit Card,4.5
+ORD10010,2023-10-18,October,Q4,CUST1135,East,Patna,Books,Self Help,4,560.0,5,2128.0,Credit Card,3.5
+ORD10407,2023-10-19,October,Q4,CUST1014,West,Pune,Sports,Badminton Racket,1,1530.0,20,1224.0,Credit Card,4.0
+ORD10832,2023-10-19,October,Q4,CUST1092,South,Kochi,Sports,Cricket Bat,1,2050.0,20,1640.0,UPI,3.5
+ORD10572,2023-10-20,October,Q4,CUST1449,North,Amritsar,Electronics,Smart Watch,1,8620.0,0,8620.0,Credit Card,4.0
+ORD10377,2023-10-20,October,Q4,CUST1010,South,Chennai,Clothing,Women's Kurta,4,1260.0,20,4032.0,UPI,3.9
+ORD10831,2023-10-20,October,Q4,CUST1277,East,Ranchi,Electronics,Tablet,1,20270.0,20,16216.0,Debit Card,4.5
+ORD10828,2023-10-21,October,Q4,CUST1067,East,Ranchi,Books,Business Strategy,4,980.0,20,3136.0,Credit Card,4.0
+ORD10465,2023-10-21,October,Q4,CUST1306,South,Bengaluru,Clothing,Jeans,5,2150.0,15,9137.5,Debit Card,4.3
+ORD10446,2023-10-21,October,Q4,CUST1108,West,Nagpur,Sports,Cricket Bat,1,2150.0,10,1935.0,Net Banking,4.8
+ORD10695,2023-10-21,October,Q4,CUST1071,South,Coimbatore,Books,Business Strategy,4,960.0,0,3840.0,Debit Card,3.2
+ORD10234,2023-10-22,October,Q4,CUST1338,East,Ranchi,Sports,Dumbbells Set,1,3360.0,5,3192.0,Debit Card,3.4
+ORD10184,2023-10-22,October,Q4,CUST1176,North,Chandigarh,Home & Kitchen,Mixer Grinder,1,3240.0,20,2592.0,Credit Card,4.8
+ORD10485,2023-10-22,October,Q4,CUST1492,East,Guwahati,Books,Novel,2,360.0,10,648.0,Net Banking,4.4
+ORD10295,2023-10-23,October,Q4,CUST1263,East,Guwahati,Books,Self Help,1,460.0,15,391.0,Cash on Delivery,4.4
+ORD10545,2023-10-23,October,Q4,CUST1213,West,Mumbai,Electronics,Earbuds,1,2470.0,15,2099.5,UPI,4.7
+ORD10409,2023-10-23,October,Q4,CUST1048,South,Hyderabad,Sports,Football,1,750.0,20,600.0,Net Banking,4.3
+ORD10672,2023-10-23,October,Q4,CUST1242,South,Bengaluru,Books,Novel,2,360.0,20,576.0,Net Banking,3.6
+ORD10710,2023-10-24,October,Q4,CUST1398,East,Patna,Electronics,Laptop,1,53540.0,10,48186.0,Net Banking,3.8
+ORD10227,2023-10-24,October,Q4,CUST1478,North,Delhi,Books,Business Strategy,5,970.0,0,4850.0,UPI,5.0
+ORD10188,2023-10-25,October,Q4,CUST1021,South,Chennai,Sports,Football,1,690.0,20,552.0,UPI,3.2
+ORD10751,2023-10-25,October,Q4,CUST1168,East,Guwahati,Electronics,Laptop,1,54600.0,10,49140.0,Debit Card,4.5
+ORD10735,2023-10-26,October,Q4,CUST1179,North,Jaipur,Books,Data Science Handbook,3,800.0,15,2040.0,UPI,4.3
+ORD10677,2023-10-26,October,Q4,CUST1404,North,Lucknow,Books,Python Basics,4,670.0,5,2546.0,Cash on Delivery,4.3
+ORD10387,2023-10-26,October,Q4,CUST1152,North,Lucknow,Clothing,Jacket,4,3070.0,20,9824.0,Net Banking,3.1
+ORD10203,2023-10-26,October,Q4,CUST1075,West,Pune,Sports,Football,1,760.0,15,646.0,Credit Card,3.1
+ORD10037,2023-10-26,October,Q4,CUST1107,South,Kochi,Clothing,Men's T-Shirt,1,680.0,10,612.0,Credit Card,4.3
+ORD10225,2023-10-26,October,Q4,CUST1067,West,Mumbai,Sports,Badminton Racket,1,1540.0,15,1309.0,Debit Card,3.8
+ORD10202,2023-10-26,October,Q4,CUST1295,East,Kolkata,Sports,Badminton Racket,1,1350.0,20,1080.0,Credit Card,4.4
+ORD10030,2023-10-26,October,Q4,CUST1343,East,Bhubaneswar,Clothing,Jeans,4,1820.0,5,6916.0,Cash on Delivery,3.9
+ORD10618,2023-10-26,October,Q4,CUST1031,North,Amritsar,Sports,Badminton Racket,1,1560.0,10,1404.0,Cash on Delivery,4.8
+ORD10939,2023-10-27,October,Q4,CUST1340,South,Kochi,Books,Data Science Handbook,3,720.0,0,2160.0,Debit Card,4.6
+ORD10087,2023-10-27,October,Q4,CUST1164,West,Surat,Electronics,Smart Watch,1,8390.0,10,7551.0,UPI,4.7
+ORD10877,2023-10-28,October,Q4,CUST1322,South,Coimbatore,Home & Kitchen,Pressure Cooker,1,1770.0,0,1770.0,Cash on Delivery,4.7
+ORD10486,2023-10-28,October,Q4,CUST1346,North,Lucknow,Electronics,Earbuds,1,2290.0,5,2175.5,Credit Card,4.6
+ORD10211,2023-10-28,October,Q4,CUST1026,South,Chennai,Electronics,Tablet,1,21040.0,5,19988.0,UPI,3.8
+ORD10966,2023-10-28,October,Q4,CUST1330,West,Ahmedabad,Electronics,Tablet,1,20800.0,15,17680.0,Net Banking,3.6
+ORD10929,2023-10-29,October,Q4,CUST1083,North,Lucknow,Electronics,Smartphone,1,17930.0,20,14344.0,Credit Card,4.5
+ORD10953,2023-10-30,October,Q4,CUST1339,South,Kochi,Books,Business Strategy,2,980.0,20,1568.0,Debit Card,4.2
+ORD10059,2023-10-31,October,Q4,CUST1133,North,Delhi,Books,Python Basics,2,670.0,0,1340.0,Net Banking,3.7
+ORD10661,2023-10-31,October,Q4,CUST1230,East,Guwahati,Books,Python Basics,3,570.0,20,1368.0,Net Banking,3.5
+ORD10863,2023-11-01,November,Q4,CUST1181,North,Amritsar,Clothing,Jacket,5,3070.0,10,13815.0,Net Banking,4.0
+ORD10657,2023-11-01,November,Q4,CUST1061,South,Bengaluru,Clothing,Saree,4,2460.0,10,8856.0,Debit Card,4.1
+ORD10633,2023-11-01,November,Q4,CUST1107,South,Kochi,Books,Self Help,4,480.0,5,1824.0,Debit Card,4.5
+ORD11000,2023-11-02,November,Q4,CUST1126,North,Lucknow,Books,Business Strategy,1,870.0,15,739.5,Debit Card,3.3
+ORD10629,2023-11-02,November,Q4,CUST1086,East,Ranchi,Home & Kitchen,Mixer Grinder,1,3380.0,20,2704.0,Debit Card,3.1
+ORD10223,2023-11-02,November,Q4,CUST1057,North,Amritsar,Books,Novel,1,380.0,20,304.0,UPI,4.7
+ORD10797,2023-11-02,November,Q4,CUST1478,East,Kolkata,Books,Self Help,5,510.0,20,2040.0,Net Banking,3.5
+ORD10119,2023-11-02,November,Q4,CUST1338,North,Jaipur,Clothing,Women's Kurta,2,1340.0,0,2680.0,UPI,3.3
+ORD10468,2023-11-02,November,Q4,CUST1267,North,Chandigarh,Books,Self Help,1,470.0,5,446.5,Debit Card,4.4
+ORD10432,2023-11-02,November,Q4,CUST1183,North,Amritsar,Home & Kitchen,Air Fryer,1,6040.0,20,4832.0,UPI,4.6
+ORD10909,2023-11-03,November,Q4,CUST1102,North,Delhi,Books,Python Basics,3,680.0,5,1938.0,UPI,3.0
+ORD10528,2023-11-03,November,Q4,CUST1277,South,Bengaluru,Sports,Yoga Mat,1,860.0,10,774.0,Cash on Delivery,3.9
+ORD10723,2023-11-04,November,Q4,CUST1438,East,Guwahati,Clothing,Jacket,4,3310.0,5,12578.0,UPI,4.8
+ORD10467,2023-11-04,November,Q4,CUST1370,South,Coimbatore,Clothing,Jacket,3,3510.0,5,10003.5,Cash on Delivery,4.8
+ORD10584,2023-11-05,November,Q4,CUST1082,East,Bhubaneswar,Electronics,Smartphone,1,16690.0,5,15855.5,Cash on Delivery,4.2
+ORD10717,2023-11-05,November,Q4,CUST1074,South,Coimbatore,Clothing,Women's Kurta,1,1390.0,0,1390.0,Cash on Delivery,4.9
+ORD10783,2023-11-05,November,Q4,CUST1228,South,Hyderabad,Electronics,Earbuds,1,2570.0,15,2184.5,Net Banking,4.0
+ORD10792,2023-11-05,November,Q4,CUST1411,West,Ahmedabad,Sports,Football,1,690.0,15,586.5,Cash on Delivery,3.2
+ORD10463,2023-11-05,November,Q4,CUST1245,North,Chandigarh,Books,Business Strategy,4,970.0,15,3298.0,Credit Card,4.2
+ORD10588,2023-11-06,November,Q4,CUST1319,East,Guwahati,Sports,Dumbbells Set,1,3380.0,20,2704.0,Cash on Delivery,4.9
+ORD10504,2023-11-06,November,Q4,CUST1211,West,Ahmedabad,Books,Business Strategy,5,980.0,15,4165.0,Credit Card,3.4
+ORD10414,2023-11-06,November,Q4,CUST1486,East,Ranchi,Sports,Yoga Mat,1,900.0,15,765.0,Cash on Delivery,3.7
+ORD10860,2023-11-09,November,Q4,CUST1435,West,Mumbai,Electronics,Smartphone,1,18720.0,10,16848.0,Net Banking,3.8
+ORD10205,2023-11-10,November,Q4,CUST1269,West,Mumbai,Clothing,Jacket,3,3140.0,15,8007.0,Net Banking,3.6
+ORD10503,2023-11-10,November,Q4,CUST1162,West,Mumbai,Electronics,Laptop,1,51270.0,10,46143.0,Cash on Delivery,4.4
+ORD10679,2023-11-10,November,Q4,CUST1263,South,Bengaluru,Sports,Dumbbells Set,1,3790.0,0,3790.0,Cash on Delivery,4.8
+ORD10258,2023-11-11,November,Q4,CUST1251,West,Ahmedabad,Electronics,Earbuds,1,2740.0,15,2329.0,Credit Card,3.7
+ORD10589,2023-11-11,November,Q4,CUST1362,West,Nagpur,Books,Self Help,5,550.0,5,2612.5,Cash on Delivery,5.0
+ORD10490,2023-11-13,November,Q4,CUST1314,East,Patna,Electronics,Smartphone,1,20340.0,15,17289.0,UPI,4.5
+ORD10944,2023-11-13,November,Q4,CUST1324,West,Nagpur,Books,Python Basics,3,540.0,0,1620.0,Cash on Delivery,4.7
+ORD10861,2023-11-13,November,Q4,CUST1237,West,Pune,Sports,Football,1,630.0,15,535.5,Net Banking,4.8
+ORD10864,2023-11-14,November,Q4,CUST1159,West,Pune,Clothing,Women's Kurta,1,1430.0,5,1358.5,Debit Card,3.9
+ORD10862,2023-11-14,November,Q4,CUST1098,North,Jaipur,Electronics,Smart Watch,1,8750.0,20,7000.0,UPI,3.2
+ORD10131,2023-11-15,November,Q4,CUST1471,North,Amritsar,Home & Kitchen,Mixer Grinder,1,3020.0,10,2718.0,Cash on Delivery,3.7
+ORD10164,2023-11-15,November,Q4,CUST1323,West,Mumbai,Electronics,Smart Watch,1,8920.0,0,8920.0,Debit Card,4.2
+ORD10883,2023-11-15,November,Q4,CUST1162,East,Guwahati,Books,Self Help,3,500.0,15,1275.0,Cash on Delivery,3.8
+ORD10198,2023-11-16,November,Q4,CUST1285,North,Chandigarh,Electronics,Smart Watch,1,8440.0,10,7596.0,Cash on Delivery,4.5
+ORD10623,2023-11-16,November,Q4,CUST1196,South,Kochi,Sports,Badminton Racket,1,1450.0,15,1232.5,Cash on Delivery,3.5
+ORD10144,2023-11-16,November,Q4,CUST1407,East,Bhubaneswar,Clothing,Saree,4,2290.0,10,8244.0,Cash on Delivery,4.2
+ORD10938,2023-11-16,November,Q4,CUST1141,North,Chandigarh,Electronics,Earbuds,1,2300.0,0,2300.0,UPI,3.7
+ORD10155,2023-11-16,November,Q4,CUST1496,South,Kochi,Electronics,Smart Watch,1,8420.0,5,7999.0,Net Banking,4.2
+ORD10875,2023-11-16,November,Q4,CUST1406,West,Mumbai,Electronics,Laptop,1,58280.0,5,55366.0,Credit Card,3.4
+ORD10664,2023-11-17,November,Q4,CUST1350,South,Hyderabad,Electronics,Laptop,1,48260.0,5,45847.0,Net Banking,4.0
+ORD10902,2023-11-18,November,Q4,CUST1188,East,Kolkata,Clothing,Saree,5,2510.0,0,12550.0,UPI,4.5
+ORD10108,2023-11-18,November,Q4,CUST1465,North,Jaipur,Books,Data Science Handbook,2,830.0,0,1660.0,Cash on Delivery,3.7
+ORD10583,2023-11-18,November,Q4,CUST1074,South,Bengaluru,Clothing,Women's Kurta,3,1190.0,0,3570.0,UPI,4.3
+ORD10050,2023-11-19,November,Q4,CUST1398,South,Kochi,Books,Self Help,1,480.0,0,480.0,Net Banking,3.4
+ORD10991,2023-11-20,November,Q4,CUST1478,West,Pune,Home & Kitchen,Water Bottle,1,500.0,0,500.0,Net Banking,4.8
+ORD10915,2023-11-20,November,Q4,CUST1500,West,Pune,Home & Kitchen,Pressure Cooker,1,1910.0,10,1719.0,Net Banking,3.1
+ORD10650,2023-11-20,November,Q4,CUST1389,North,Jaipur,Sports,Dumbbells Set,1,3220.0,15,2737.0,Cash on Delivery,4.3
+ORD10670,2023-11-20,November,Q4,CUST1143,East,Bhubaneswar,Clothing,Jeans,5,1770.0,0,8850.0,Credit Card,3.2
+ORD10660,2023-11-20,November,Q4,CUST1091,West,Pune,Electronics,Smart Watch,1,7820.0,0,7820.0,UPI,4.4
+ORD10656,2023-11-20,November,Q4,CUST1032,North,Jaipur,Electronics,Smart Watch,1,8950.0,20,7160.0,UPI,3.2
+ORD10314,2023-11-21,November,Q4,CUST1059,North,Jaipur,Books,Python Basics,1,550.0,15,467.5,Net Banking,4.2
+ORD10445,2023-11-21,November,Q4,CUST1072,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3320.0,20,2656.0,UPI,3.1
+ORD10616,2023-11-22,November,Q4,CUST1295,North,Chandigarh,Clothing,Saree,4,2580.0,20,8256.0,Net Banking,3.4
+ORD10924,2023-11-22,November,Q4,CUST1193,South,Hyderabad,Books,Data Science Handbook,3,910.0,15,2320.5,Credit Card,3.9
+ORD10529,2023-11-23,November,Q4,CUST1122,West,Pune,Electronics,Tablet,1,24510.0,20,19608.0,Cash on Delivery,4.4
+ORD10641,2023-11-23,November,Q4,CUST1411,North,Delhi,Electronics,Tablet,1,20510.0,20,16408.0,Credit Card,4.8
+ORD10253,2023-11-23,November,Q4,CUST1289,North,Chandigarh,Electronics,Smart Watch,1,9450.0,10,8505.0,UPI,4.8
+ORD10001,2023-11-24,November,Q4,CUST1346,North,Delhi,Home & Kitchen,Pressure Cooker,1,1720.0,0,1720.0,Debit Card,3.2
+ORD10870,2023-11-24,November,Q4,CUST1413,South,Chennai,Books,Novel,4,330.0,10,1188.0,Net Banking,3.4
+ORD10009,2023-11-24,November,Q4,CUST1205,South,Hyderabad,Electronics,Laptop,1,57480.0,10,51732.0,Cash on Delivery,3.1
+ORD10396,2023-11-24,November,Q4,CUST1338,East,Ranchi,Sports,Cricket Bat,1,2310.0,0,2310.0,UPI,4.3
+ORD10218,2023-11-24,November,Q4,CUST1094,West,Surat,Sports,Dumbbells Set,1,3230.0,0,3230.0,Credit Card,4.0
+ORD10531,2023-11-25,November,Q4,CUST1427,East,Kolkata,Electronics,Tablet,1,23420.0,0,23420.0,Credit Card,3.4
+ORD10189,2023-11-25,November,Q4,CUST1254,East,Patna,Sports,Badminton Racket,1,1480.0,0,1480.0,Debit Card,3.6
+ORD10760,2023-11-25,November,Q4,CUST1294,South,Kochi,Clothing,Men's T-Shirt,3,700.0,10,1890.0,UPI,3.2
+ORD10885,2023-11-26,November,Q4,CUST1279,North,Jaipur,Clothing,Men's T-Shirt,3,650.0,0,1950.0,Credit Card,3.7
+ORD10608,2023-11-26,November,Q4,CUST1467,West,Surat,Clothing,Women's Kurta,5,1220.0,10,5490.0,Cash on Delivery,3.8
+ORD10727,2023-11-26,November,Q4,CUST1142,West,Ahmedabad,Books,Novel,4,400.0,20,1280.0,Credit Card,4.5
+ORD10575,2023-11-27,November,Q4,CUST1480,West,Mumbai,Sports,Cricket Bat,1,2080.0,20,1664.0,Debit Card,3.3
+ORD10879,2023-11-27,November,Q4,CUST1269,East,Guwahati,Sports,Badminton Racket,1,1320.0,10,1188.0,Net Banking,4.4
+ORD10177,2023-11-27,November,Q4,CUST1485,East,Bhubaneswar,Books,Novel,2,320.0,15,544.0,Cash on Delivery,3.7
+ORD10217,2023-11-28,November,Q4,CUST1345,East,Patna,Electronics,Earbuds,1,2740.0,20,2192.0,Credit Card,3.4
+ORD10171,2023-11-28,November,Q4,CUST1139,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3570.0,10,3213.0,UPI,4.6
+ORD10464,2023-11-28,November,Q4,CUST1068,West,Mumbai,Clothing,Men's T-Shirt,5,650.0,5,3087.5,Debit Card,3.1
+ORD10794,2023-11-29,November,Q4,CUST1075,South,Chennai,Books,Novel,3,330.0,15,841.5,Net Banking,3.8
+ORD10305,2023-11-29,November,Q4,CUST1470,South,Kochi,Home & Kitchen,Pressure Cooker,1,1900.0,5,1805.0,Net Banking,4.2
+ORD10003,2023-11-29,November,Q4,CUST1357,West,Pune,Books,Novel,1,340.0,5,323.0,Net Banking,3.7
+ORD10611,2023-11-29,November,Q4,CUST1122,North,Jaipur,Sports,Badminton Racket,1,1400.0,15,1190.0,Debit Card,3.5
+ORD10406,2023-11-29,November,Q4,CUST1213,South,Bengaluru,Clothing,Men's T-Shirt,2,800.0,0,1600.0,Debit Card,4.0
+ORD10558,2023-11-29,November,Q4,CUST1248,West,Pune,Books,Novel,1,400.0,10,360.0,Debit Card,4.1
+ORD10067,2023-11-30,November,Q4,CUST1137,East,Ranchi,Sports,Badminton Racket,1,1420.0,20,1136.0,Cash on Delivery,4.7
+ORD10865,2023-11-30,November,Q4,CUST1240,East,Bhubaneswar,Sports,Football,1,760.0,5,722.0,Cash on Delivery,4.2
+ORD10033,2023-12-01,December,Q4,CUST1135,North,Amritsar,Home & Kitchen,Mixer Grinder,1,3630.0,5,3448.5,UPI,4.8
+ORD10970,2023-12-01,December,Q4,CUST1043,South,Bengaluru,Sports,Dumbbells Set,1,3900.0,0,3900.0,UPI,4.0
+ORD10965,2023-12-01,December,Q4,CUST1250,West,Ahmedabad,Electronics,Smartphone,1,16720.0,0,16720.0,Debit Card,3.4
+ORD10507,2023-12-02,December,Q4,CUST1067,West,Ahmedabad,Clothing,Women's Kurta,4,1410.0,5,5358.0,Debit Card,4.7
+ORD10150,2023-12-03,December,Q4,CUST1158,South,Hyderabad,Electronics,Tablet,1,23450.0,10,21105.0,Net Banking,3.3
+ORD10168,2023-12-03,December,Q4,CUST1173,North,Amritsar,Home & Kitchen,Pressure Cooker,1,1640.0,20,1312.0,Credit Card,4.7
+ORD10579,2023-12-04,December,Q4,CUST1157,South,Chennai,Clothing,Women's Kurta,1,1420.0,15,1207.0,Cash on Delivery,4.5
+ORD10530,2023-12-04,December,Q4,CUST1313,West,Pune,Sports,Badminton Racket,1,1530.0,5,1453.5,Cash on Delivery,3.6
+ORD10470,2023-12-04,December,Q4,CUST1267,South,Coimbatore,Sports,Cricket Bat,1,2470.0,15,2099.5,Net Banking,3.7
+ORD10466,2023-12-05,December,Q4,CUST1087,East,Kolkata,Clothing,Saree,4,2630.0,15,8942.0,Credit Card,4.7
+ORD10360,2023-12-05,December,Q4,CUST1189,East,Kolkata,Sports,Badminton Racket,1,1320.0,15,1122.0,Credit Card,3.9
+ORD10627,2023-12-06,December,Q4,CUST1273,North,Amritsar,Sports,Dumbbells Set,1,3690.0,10,3321.0,UPI,3.9
+ORD10045,2023-12-06,December,Q4,CUST1206,North,Jaipur,Sports,Dumbbells Set,1,3730.0,10,3357.0,Cash on Delivery,4.1
+ORD10932,2023-12-06,December,Q4,CUST1203,South,Bengaluru,Electronics,Smartphone,1,19100.0,15,16235.0,Debit Card,4.9
+ORD10942,2023-12-07,December,Q4,CUST1412,West,Surat,Sports,Cricket Bat,1,2520.0,10,2268.0,UPI,3.0
+ORD10868,2023-12-08,December,Q4,CUST1493,West,Surat,Sports,Dumbbells Set,1,3900.0,20,3120.0,Cash on Delivery,4.2
+ORD10052,2023-12-08,December,Q4,CUST1228,East,Guwahati,Sports,Football,1,700.0,20,560.0,Credit Card,4.5
+ORD10362,2023-12-08,December,Q4,CUST1116,North,Delhi,Home & Kitchen,Water Bottle,1,450.0,20,360.0,Debit Card,3.1
+ORD10136,2023-12-08,December,Q4,CUST1104,East,Kolkata,Clothing,Saree,1,2860.0,0,2860.0,Cash on Delivery,4.9
+ORD10556,2023-12-09,December,Q4,CUST1030,North,Lucknow,Sports,Football,1,640.0,5,608.0,Cash on Delivery,3.4
+ORD10755,2023-12-10,December,Q4,CUST1462,South,Hyderabad,Sports,Badminton Racket,1,1370.0,10,1233.0,UPI,4.1
+ORD10607,2023-12-10,December,Q4,CUST1049,North,Lucknow,Sports,Yoga Mat,1,780.0,15,663.0,Net Banking,3.6
+ORD10351,2023-12-10,December,Q4,CUST1179,East,Guwahati,Electronics,Earbuds,1,2380.0,0,2380.0,Cash on Delivery,4.6
+ORD10488,2023-12-11,December,Q4,CUST1111,East,Kolkata,Sports,Yoga Mat,1,870.0,10,783.0,Debit Card,3.5
+ORD10086,2023-12-11,December,Q4,CUST1469,East,Ranchi,Electronics,Laptop,1,52920.0,15,44982.0,Cash on Delivery,3.4
+ORD10638,2023-12-12,December,Q4,CUST1280,South,Coimbatore,Clothing,Jacket,2,3250.0,10,5850.0,UPI,4.3
+ORD10319,2023-12-12,December,Q4,CUST1125,North,Chandigarh,Sports,Cricket Bat,1,2000.0,0,2000.0,UPI,3.9
+ORD10111,2023-12-12,December,Q4,CUST1135,West,Nagpur,Home & Kitchen,Mixer Grinder,1,3510.0,0,3510.0,Debit Card,3.2
+ORD10886,2023-12-12,December,Q4,CUST1070,East,Bhubaneswar,Home & Kitchen,Bedsheet Set,1,1040.0,20,832.0,Debit Card,4.8
+ORD10987,2023-12-13,December,Q4,CUST1365,North,Lucknow,Electronics,Tablet,1,20850.0,0,20850.0,Net Banking,4.4
+ORD10176,2023-12-14,December,Q4,CUST1064,South,Bengaluru,Clothing,Jacket,4,3530.0,0,14120.0,UPI,3.5
+ORD10617,2023-12-15,December,Q4,CUST1367,East,Bhubaneswar,Sports,Dumbbells Set,1,3950.0,15,3357.5,Cash on Delivery,5.0
+ORD10521,2023-12-15,December,Q4,CUST1062,East,Bhubaneswar,Clothing,Men's T-Shirt,5,760.0,20,3040.0,Cash on Delivery,4.0
+ORD10854,2023-12-15,December,Q4,CUST1024,West,Surat,Home & Kitchen,Water Bottle,1,490.0,5,465.5,Cash on Delivery,4.8
+ORD10778,2023-12-15,December,Q4,CUST1428,North,Lucknow,Home & Kitchen,Water Bottle,1,510.0,0,510.0,Cash on Delivery,3.3
+ORD10489,2023-12-16,December,Q4,CUST1117,South,Kochi,Clothing,Women's Kurta,3,1410.0,5,4018.5,Credit Card,4.7
+ORD10998,2023-12-16,December,Q4,CUST1056,South,Hyderabad,Books,Novel,4,380.0,5,1444.0,UPI,4.6
+ORD10008,2023-12-16,December,Q4,CUST1194,North,Amritsar,Clothing,Jacket,2,3570.0,15,6069.0,Cash on Delivery,5.0
+ORD10169,2023-12-17,December,Q4,CUST1150,West,Surat,Clothing,Women's Kurta,4,1190.0,0,4760.0,Credit Card,3.1
+ORD10152,2023-12-17,December,Q4,CUST1092,North,Lucknow,Sports,Dumbbells Set,1,3170.0,10,2853.0,Credit Card,3.7
+ORD10398,2023-12-18,December,Q4,CUST1310,North,Jaipur,Books,Data Science Handbook,3,850.0,20,2040.0,Credit Card,3.8
+ORD10568,2023-12-18,December,Q4,CUST1240,North,Jaipur,Electronics,Smart Watch,1,7930.0,20,6344.0,Cash on Delivery,3.4
+ORD10443,2023-12-18,December,Q4,CUST1195,East,Ranchi,Electronics,Earbuds,1,2730.0,15,2320.5,Net Banking,4.6
+ORD10563,2023-12-18,December,Q4,CUST1168,South,Kochi,Clothing,Jacket,3,3100.0,20,7440.0,Net Banking,4.1
+ORD10649,2023-12-19,December,Q4,CUST1170,West,Mumbai,Sports,Football,1,790.0,10,711.0,Cash on Delivery,3.8
+ORD10705,2023-12-19,December,Q4,CUST1306,South,Bengaluru,Electronics,Earbuds,1,2560.0,0,2560.0,Cash on Delivery,4.2
+ORD10956,2023-12-19,December,Q4,CUST1253,North,Jaipur,Sports,Badminton Racket,1,1480.0,5,1406.0,Cash on Delivery,4.4
+ORD10524,2023-12-20,December,Q4,CUST1255,West,Nagpur,Clothing,Jeans,2,2080.0,5,3952.0,UPI,4.4
+ORD10208,2023-12-20,December,Q4,CUST1062,West,Ahmedabad,Books,Business Strategy,3,940.0,10,2538.0,Debit Card,4.4
+ORD10853,2023-12-21,December,Q4,CUST1221,East,Ranchi,Books,Data Science Handbook,1,910.0,10,819.0,Net Banking,3.5
+ORD10585,2023-12-21,December,Q4,CUST1393,South,Kochi,Sports,Dumbbells Set,1,3970.0,0,3970.0,Cash on Delivery,3.6
+ORD10691,2023-12-21,December,Q4,CUST1064,South,Chennai,Clothing,Men's T-Shirt,3,640.0,20,1536.0,Net Banking,3.5
+ORD10325,2023-12-22,December,Q4,CUST1053,North,Jaipur,Electronics,Smart Watch,1,9450.0,10,8505.0,Credit Card,4.1
+ORD10424,2023-12-22,December,Q4,CUST1482,East,Kolkata,Home & Kitchen,Water Bottle,1,460.0,20,368.0,Net Banking,4.3
+ORD10904,2023-12-22,December,Q4,CUST1019,West,Surat,Home & Kitchen,Air Fryer,1,6130.0,15,5210.5,UPI,3.5
+ORD10642,2023-12-23,December,Q4,CUST1327,South,Hyderabad,Home & Kitchen,Air Fryer,1,5860.0,0,5860.0,Net Banking,4.8
+ORD10115,2023-12-23,December,Q4,CUST1208,West,Nagpur,Clothing,Saree,4,2660.0,20,8512.0,Cash on Delivery,3.1
+ORD10303,2023-12-23,December,Q4,CUST1045,East,Kolkata,Books,Python Basics,2,610.0,15,1037.0,UPI,3.2
+ORD10557,2023-12-23,December,Q4,CUST1442,East,Kolkata,Books,Data Science Handbook,3,730.0,10,1971.0,UPI,3.0
+ORD10252,2023-12-23,December,Q4,CUST1193,South,Hyderabad,Electronics,Smartphone,1,16620.0,15,14127.0,Debit Card,4.0
+ORD10371,2023-12-23,December,Q4,CUST1137,North,Chandigarh,Clothing,Jeans,4,2170.0,10,7812.0,Net Banking,4.2
+ORD10051,2023-12-23,December,Q4,CUST1233,West,Mumbai,Sports,Yoga Mat,1,960.0,0,960.0,Credit Card,4.6
+ORD10943,2023-12-24,December,Q4,CUST1143,West,Pune,Electronics,Tablet,1,20480.0,20,16384.0,Credit Card,3.7
+ORD10297,2023-12-24,December,Q4,CUST1422,East,Kolkata,Sports,Badminton Racket,1,1340.0,15,1139.0,Credit Card,4.0
+ORD10609,2023-12-25,December,Q4,CUST1179,East,Bhubaneswar,Books,Self Help,4,450.0,0,1800.0,Net Banking,3.9
+ORD10343,2023-12-25,December,Q4,CUST1428,East,Ranchi,Sports,Yoga Mat,1,880.0,5,836.0,Net Banking,4.1
+ORD10204,2023-12-25,December,Q4,CUST1211,North,Chandigarh,Electronics,Smart Watch,1,8320.0,5,7904.0,Credit Card,3.8
+ORD10106,2023-12-25,December,Q4,CUST1381,East,Kolkata,Books,Business Strategy,1,810.0,20,648.0,Net Banking,4.7
+ORD10682,2023-12-26,December,Q4,CUST1348,South,Chennai,Home & Kitchen,Bedsheet Set,1,1240.0,20,992.0,Net Banking,3.6
+ORD10125,2023-12-26,December,Q4,CUST1173,North,Amritsar,Clothing,Saree,2,2530.0,15,4301.0,Net Banking,3.8
+ORD10533,2023-12-26,December,Q4,CUST1006,East,Kolkata,Home & Kitchen,Pressure Cooker,1,1890.0,0,1890.0,Credit Card,4.3
+ORD10349,2023-12-26,December,Q4,CUST1113,West,Nagpur,Electronics,Laptop,1,54630.0,20,43704.0,Debit Card,3.2
+ORD10221,2023-12-27,December,Q4,CUST1490,East,Kolkata,Home & Kitchen,Bedsheet Set,1,1160.0,5,1102.0,Credit Card,4.0
+ORD10138,2023-12-27,December,Q4,CUST1223,South,Coimbatore,Sports,Dumbbells Set,1,3210.0,0,3210.0,UPI,3.9
+ORD10678,2023-12-27,December,Q4,CUST1385,North,Delhi,Books,Business Strategy,3,930.0,15,2371.5,Cash on Delivery,4.4
+ORD10281,2023-12-27,December,Q4,CUST1095,South,Chennai,Home & Kitchen,Mixer Grinder,1,3340.0,20,2672.0,Cash on Delivery,3.7
+ORD10293,2023-12-27,December,Q4,CUST1460,East,Bhubaneswar,Sports,Dumbbells Set,1,3980.0,20,3184.0,UPI,3.3
+ORD10346,2023-12-27,December,Q4,CUST1360,South,Bengaluru,Sports,Dumbbells Set,1,3990.0,10,3591.0,Net Banking,4.2
+ORD10476,2023-12-28,December,Q4,CUST1051,West,Pune,Electronics,Laptop,1,52610.0,5,49979.5,Credit Card,4.0
+ORD10097,2023-12-28,December,Q4,CUST1494,West,Surat,Clothing,Saree,2,2850.0,20,4560.0,Debit Card,3.7
+ORD10845,2023-12-29,December,Q4,CUST1168,West,Ahmedabad,Clothing,Jeans,4,1870.0,20,5984.0,UPI,4.8
+ORD10148,2023-12-29,December,Q4,CUST1190,West,Surat,Sports,Football,1,740.0,10,666.0,Cash on Delivery,3.8
+ORD10151,2023-12-29,December,Q4,CUST1416,North,Jaipur,Sports,Badminton Racket,1,1490.0,10,1341.0,Credit Card,4.3
+ORD10181,2023-12-30,December,Q4,CUST1364,North,Amritsar,Sports,Dumbbells Set,1,3930.0,5,3733.5,Credit Card,4.6
+ORD10278,2023-12-30,December,Q4,CUST1476,North,Delhi,Home & Kitchen,Mixer Grinder,1,3420.0,5,3249.0,Credit Card,4.0
+ORD10905,2023-12-30,December,Q4,CUST1336,South,Hyderabad,Books,Self Help,1,510.0,20,408.0,Credit Card,4.4
+ORD10712,2023-12-31,December,Q4,CUST1245,North,Lucknow,Books,Data Science Handbook,2,740.0,0,1480.0,Cash on Delivery,3.6
+ORD10900,2023-12-31,December,Q4,CUST1460,East,Guwahati,Sports,Yoga Mat,1,850.0,5,807.5,Debit Card,4.5
